@@ -294,3 +294,6 @@ body{background:#f4f7fb;color:#243246}
   .article-detail-layout .article-related,.article-detail-layout .article-sidebar-cta{display:block}
   .article-related a{font-size:14px}
 }
+
+.contact-info-image{display:inline-block;max-width:100%;height:auto;vertical-align:middle;margin:.25rem 0}
+.footer .contact-info-image{max-height:36px;width:auto;background:#fff;border-radius:7px}

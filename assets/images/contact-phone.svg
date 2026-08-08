@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="44" viewBox="0 0 210 44" role="img" aria-labelledby="title desc">
+  <title id="title">电话联系方式</title>
+  <desc id="desc">电话号码图片</desc>
+  <rect width="210" height="44" rx="8" fill="#f1f7ff"/>
+  <rect x="1" y="1" width="208" height="42" rx="7" fill="none" stroke="#c9dcf8"/>
+  <circle cx="23" cy="22" r="13" fill="#1769e0"/>
+  <path d="M18.2 14.7c.8-.5 1.8-.2 2.2.6l1.7 3.1c.4.7.2 1.6-.4 2.1l-1.2.9c1 2.2 2.8 4 5 5l.9-1.2c.5-.7 1.4-.8 2.1-.4l3.1 1.7c.8.4 1.1 1.4.6 2.2l-1 1.7c-.4.7-1.2 1.1-2 1-7.9-1-14.2-7.3-15.2-15.2-.1-.8.3-1.6 1-2l1.7-1Z" fill="#fff" transform="scale(.72) translate(10 8)"/>
+  <text x="45" y="28" fill="#172033" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="700" letter-spacing="1.2">13725706247</text>
+</svg>

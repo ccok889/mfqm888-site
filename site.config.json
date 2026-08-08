@@ -1,5 +1,5 @@
 {
   "siteUrl": "https://www.mfqm888.com",
-  "phone": "400-000-0000",
-  "email": "service@example.com"
+  "phoneImage": "assets/images/contact-phone.svg",
+  "wechatImage": "assets/images/contact-wechat.svg"
 }

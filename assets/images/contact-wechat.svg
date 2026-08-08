@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="44" viewBox="0 0 180 44" role="img" aria-labelledby="title desc">
+  <title id="title">微信联系方式</title>
+  <desc id="desc">微信号图片</desc>
+  <rect width="180" height="44" rx="8" fill="#f1f7ff"/>
+  <rect x="1" y="1" width="178" height="42" rx="7" fill="none" stroke="#c9dcf8"/>
+  <circle cx="23" cy="22" r="13" fill="#16b777"/>
+  <path d="M16 18.5c0-3 2.9-5.5 6.5-5.5s6.5 2.5 6.5 5.5-2.9 5.5-6.5 5.5c-.8 0-1.5-.1-2.2-.3l-3.2 1.7.9-2.7c-1.2-1-2-2.5-2-4.2Z" fill="#fff"/>
+  <circle cx="20" cy="18" r="1" fill="#16b777"/><circle cx="25" cy="18" r="1" fill="#16b777"/>
+  <text x="45" y="28" fill="#172033" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="700" letter-spacing="1">pep950</text>
+</svg>
