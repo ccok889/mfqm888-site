@@ -145,7 +145,10 @@ const searchIndex=[
   {title:'重庆模仿笔迹照片怎么拍清楚？签名与笔迹鉴定扫描建议',url:'city/chongqing/chongqing-mofang-biji-photo-scan.html',keywords:'重庆模仿笔迹 重庆模仿签名 重庆模仿签字 重庆笔迹鉴定',description:'重庆分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。',category:'城市服务',date:'2026-08-14',image:'assets/images/handwriting-note-v2.jpg'},
   {title:'苏州模仿签名商务文件如何整理？模仿签字资料清单',url:'city/suzhou/suzhou-mofang-qianming-business-files.html',keywords:'苏州模仿笔迹 苏州模仿签名 苏州模仿签字 苏州笔迹鉴定',description:'苏州分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。',category:'城市服务',date:'2026-08-14',image:'assets/images/business-signing.jpg'},
   {title:'天津模仿笔迹跨时期样本怎么选？签名与鉴定资料说明',url:'city/tianjin/tianjin-mofang-biji-multi-period-samples.html',keywords:'天津模仿笔迹 天津模仿签名 天津模仿签字 天津笔迹鉴定',description:'天津分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。',category:'城市服务',date:'2026-08-14',image:'assets/images/document-digital-archive.jpg'},
-  {title:'西安笔迹鉴定原件与复印件怎么准备？模仿笔迹要点',url:'city/xian/xian-biji-jianding-original-copy.html',keywords:'西安模仿笔迹 西安模仿签名 西安模仿签字 西安笔迹鉴定',description:'西安分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。',category:'城市服务',date:'2026-08-14',image:'assets/images/handwriting-detail.jpg'}
+  {title:'西安笔迹鉴定原件与复印件怎么准备？模仿笔迹要点',url:'city/xian/xian-biji-jianding-original-copy.html',keywords:'西安模仿笔迹 西安模仿签名 西安模仿签字 西安笔迹鉴定',description:'西安分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。',category:'城市服务',date:'2026-08-14',image:'assets/images/handwriting-detail.jpg'},
+  {title:'模仿笔迹怎样选择自然手写样本？从整页文字到细节照片',url:'article/mofang-biji/natural-handwriting-sample-selection.html',keywords:'模仿笔迹 模仿签名 模仿签字 笔迹鉴定 模仿笔迹',description:'模仿笔迹样本选择指南，介绍自然手写材料、整页照片、重复字、书写时间和目标文字的整理方法。',category:'模仿笔迹',date:'2026-08-14',image:'assets/images/handwriting-samples-flatlay-v2.jpg'},
+  {title:'模仿签名与模仿签字样本怎么分类？正式签名和快速签字的区别',url:'article/mofang-qianming/signature-versions-and-sample-sorting.html',keywords:'模仿笔迹 模仿签名 模仿签字 笔迹鉴定 模仿签名',description:'说明模仿签名、模仿签字样本的分类方式，比较正式签名、快速签字、简写版本与多时期材料。',category:'模仿签名',date:'2026-08-14',image:'assets/images/signature-sample-cards.jpg'},
+  {title:'笔迹鉴定对比材料怎么准备？原件、扫描件与自然样本说明',url:'article/biji-jianding/original-scan-comparison-materials.html',keywords:'模仿笔迹 模仿签名 模仿签字 笔迹鉴定 笔迹鉴定',description:'笔迹鉴定材料准备说明，介绍待分析文件、自然对比样本、原件、扫描件、相同字和形成时间的整理方法。',category:'笔迹鉴定',date:'2026-08-14',image:'assets/images/document-comparison-v2.jpg'}
 ];
 
 const matchSearch=query=>{
