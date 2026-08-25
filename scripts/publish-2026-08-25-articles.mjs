@@ -35,3 +35,4 @@ const jp=path.join(root,'assets/js/main.js');let js=fs.readFileSync(jp,'utf8');f
 const mp=path.join(root,'sitemap.xml');let map=fs.readFileSync(mp,'utf8');for(const x of additions){const loc=`https://www.mfqm888.com/${x.url}`;if(!map.includes(loc))map=map.replace('</urlset>',`  <url><loc>${loc}</loc><lastmod>${date}</lastmod><changefreq>monthly</changefreq><priority>${x.category==='城市服务'?'0.7':'0.8'}</priority></url>\n</urlset>`)}fs.writeFileSync(mp,map);
 fs.writeFileSync(path.join(root,'scripts/published-2026-08-25.json'),JSON.stringify(additions,null,2)+'\n');
 console.log(`已生成并接入 ${main.length} 篇主站文章、${cities.length} 篇城市分站文章。`);
+export {page};
