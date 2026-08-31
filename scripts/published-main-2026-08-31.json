@@ -6,7 +6,7 @@
     "description": "模仿笔迹短句与整页内容有什么区别？样本和版式准备方法，围绕模仿笔迹、模仿签名、模仿签字和笔迹鉴定说明自然样本与文件整理方法。",
     "category": "模仿笔迹",
     "date": "2026-08-31",
-    "image": "assets/images/handwritten-documents.jpg"
+    "image": "assets/images/article-short-vs-full-page-20260831.png"
   },
   {
     "title": "模仿签名为什么需要多次重复签写？稳定特征与自然变化",
@@ -15,7 +15,7 @@
     "description": "模仿签名为什么需要多次重复签写？稳定特征与自然变化，围绕模仿笔迹、模仿签名、模仿签字和笔迹鉴定说明自然样本与文件整理方法。",
     "category": "模仿签名",
     "date": "2026-08-31",
-    "image": "assets/images/signature-sample-cards.jpg"
+    "image": "assets/images/article-repeated-signature-samples-20260831.png"
   },
   {
     "title": "笔迹鉴定图片被压缩会丢失什么？原图、截图与扫描件比较",
@@ -24,6 +24,6 @@
     "description": "笔迹鉴定图片被压缩会丢失什么？原图、截图与扫描件比较，围绕模仿笔迹、模仿签名、模仿签字和笔迹鉴定说明自然样本与文件整理方法。",
     "category": "笔迹鉴定",
     "date": "2026-08-31",
-    "image": "assets/images/document-comparison-v2.jpg"
+    "image": "assets/images/article-original-scan-compressed-20260831.png"
   }
 ]
