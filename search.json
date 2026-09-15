@@ -1,1112 +1,1346 @@
 [
-  {
-    "title": "模仿笔迹服务与案例",
-    "url": "category/mofang-biji.html",
-    "keywords": "模仿笔迹 手写笔迹 成人笔迹 学生笔迹",
-    "description": "模仿笔迹服务分类、案例、费用和相关知识。"
-  },
-  {
-    "title": "模仿签名服务与案例",
-    "url": "category/mofang-qianming.html",
-    "keywords": "模仿签名 签名模仿 模仿签字 商务签字",
-    "description": "模仿签名、签字样本、笔迹特征和费用说明。"
-  },
-  {
-    "title": "笔迹鉴定方法与案例",
-    "url": "category/biji-jianding.html",
-    "keywords": "笔迹鉴定 真假分析 鉴定方法 形成规律",
-    "description": "笔迹真假分析、常见鉴定方法和样本要求。"
-  },
-  {
-    "title": "上海模仿笔迹费用多少钱？价格与服务分析",
-    "url": "article/shanghai-mofang-biji-price.html",
-    "keywords": "上海 模仿笔迹 费用 价格 多少钱",
-    "description": "分析样本、字数、复杂程度和完成时间对服务价格的影响。"
-  },
-  {
-    "title": "模仿笔迹需要提供哪些手写样本？",
-    "url": "article/mofang-biji/handwriting-samples.html",
-    "keywords": "模仿笔迹 手写样本 样本准备",
-    "description": "说明自然手写样本的数量、清晰度和内容覆盖范围。"
-  },
-  {
-    "title": "笔迹分析中常见的书写特征有哪些？",
-    "url": "article/mofang-biji/handwriting-features.html",
-    "keywords": "笔迹分析 字形 间距 力度 连笔",
-    "description": "介绍字形、间距、力度、连笔与整体布局等观察角度。"
-  },
-  {
-    "title": "个人手写字体制作需要准备多少字？",
-    "url": "article/mofang-biji/personal-font-characters.html",
-    "keywords": "个人手写字体 字稿 字符 字库",
-    "description": "介绍字稿采集、字符覆盖、整理和字体生成流程。"
-  },
-  {
-    "title": "学生笔迹的字形变化与书写习惯分析",
-    "url": "article/mofang-biji/student-handwriting-changes.html",
-    "keywords": "学生笔迹 字形变化 书写习惯",
-    "description": "分析不同学习阶段的字形、速度与结构控制变化。"
-  },
-  {
-    "title": "老人笔迹研究：力度、速度与字形特征",
-    "url": "article/mofang-biji/senior-handwriting-features.html",
-    "keywords": "老人笔迹 力度 速度 字形",
-    "description": "梳理老人手写样本中常见的力度、速度和结构变化。"
-  },
-  {
-    "title": "模仿签名需要提供哪些签字样本？",
-    "url": "article/mofang-qianming/signature-samples.html",
-    "keywords": "模仿签名 签字样本 样本",
-    "description": "说明签字样本的清晰度、数量和书写变化要求。"
-  },
-  {
-    "title": "商务签字中的速度、连笔与整体结构",
-    "url": "article/mofang-qianming/business-signature-structure.html",
-    "keywords": "商务签字 速度 连笔 结构",
-    "description": "从起笔、连写、收笔和比例认识商务签字结构。"
-  },
-  {
-    "title": "签名笔迹分析主要观察哪些特征？",
-    "url": "article/mofang-qianming/signature-features.html",
-    "keywords": "签名笔迹 字形 倾斜 连笔 力度",
-    "description": "介绍签名字形、倾斜、连接、力度与空间布局。"
-  },
-  {
-    "title": "模仿签字练习中常见的结构问题",
-    "url": "article/mofang-qianming/signature-practice-problems.html",
-    "keywords": "模仿签字 练习 结构问题",
-    "description": "整理字形失衡、速度不一致和连笔生硬等问题。"
-  },
-  {
-    "title": "模仿签名费用由哪些因素决定？",
-    "url": "article/mofang-qianming/signature-price-factors.html",
-    "keywords": "模仿签名 费用 价格 因素",
-    "description": "说明样本、复杂程度、方案数量和周期对费用的影响。"
-  },
-  {
-    "title": "笔迹鉴定通常采用哪些观察方法？",
-    "url": "article/biji-jianding/identification-methods.html",
-    "keywords": "笔迹鉴定 方法 字形 力度 连笔",
-    "description": "介绍笔迹鉴定常见的观察维度和样本要求。"
-  },
-  {
-    "title": "笔迹真假分析需要对比哪些细节？",
-    "url": "article/biji-jianding/authenticity-comparison.html",
-    "keywords": "笔迹真假 对比 起收笔 连笔",
-    "description": "从相同字形、转折、起收笔和重复特征进行对比。"
-  },
-  {
-    "title": "个人书写习惯与笔迹形成规律",
-    "url": "article/biji-jianding/handwriting-formation.html",
-    "keywords": "书写习惯 笔迹形成 规律",
-    "description": "介绍长期书写动作在字形和空间组织上的稳定特征。"
-  },
-  {
-    "title": "进行笔迹分析需要准备哪些样本？",
-    "url": "article/biji-jianding/identification-samples.html",
-    "keywords": "笔迹分析 样本 原件 扫描件",
-    "description": "说明自然书写样本的时间、内容与清晰度要求。"
-  },
-  {
-    "title": "笔迹鉴定费用与完成周期说明",
-    "url": "article/biji-jianding/identification-price-cycle.html",
-    "keywords": "笔迹鉴定 费用 周期 价格",
-    "description": "分析样本数量、范围和交付要求对费用周期的影响。"
-  },
-  {
-    "title": "上海站线上手写资料接收说明",
-    "url": "article/city/shanghai-service-news.html",
-    "keywords": "上海 手写资料 线上接收 文件命名 城市资讯",
-    "description": "上海站说明线上接收手写资料时需要准备的目标内容、自然样本、页面数量、文件格式和时间要求。"
-  },
-  {
-    "title": "笔迹服务案例展示",
-    "url": "case/index.html",
-    "keywords": "模仿笔迹案例 模仿签名案例 笔迹鉴定案例",
-    "description": "按业务类型整理的笔迹服务案例内容。"
-  },
-  {
-    "title": "上海模仿笔迹综合案例",
-    "url": "case/shanghai-handwriting.html",
-    "keywords": "上海 模仿笔迹 案例 样本 字形",
-    "description": "展示样本整理、字形拆分、书写节奏调整与成稿过程。"
-  },
-  {
-    "title": "商务签字笔迹特征案例",
-    "url": "case/business-signature.html",
-    "keywords": "模仿签名 商务签字 案例 连笔 转折",
-    "description": "展示商务签字样本整理、结构观察和效果调整过程。"
-  },
-  {
-    "title": "手写文件笔迹对比案例",
-    "url": "case/document-comparison.html",
-    "keywords": "笔迹鉴定 手写文件 对比 案例",
-    "description": "按字形结构、书写力度与空间布局展示对比过程。"
-  },
-  {
-    "title": "个人手写字体制作案例",
-    "url": "case/personal-font.html",
-    "keywords": "手写字体 字库制作 案例 字稿",
-    "description": "展示字稿采集、字符整理、校正和安装测试过程。"
-  },
-  {
-    "title": "多组签字样本整理案例",
-    "url": "case/multi-signature-samples.html",
-    "keywords": "模仿签名 多组签字 样本整理 案例",
-    "description": "展示不同时间与场景签字样本的分类和特征整理过程。"
-  },
-  {
-    "title": "书写习惯与形成规律案例",
-    "url": "case/handwriting-habit-patterns.html",
-    "keywords": "笔迹分析 书写习惯 形成规律 案例",
-    "description": "对比多份文件中保持稳定的字形与空间组织特征。"
-  },
-  {
-    "title": "自然书写笔迹案例档案",
-    "url": "case/natural-handwriting-archive.html",
-    "keywords": "模仿笔迹 自然书写 行距 节奏 案例",
-    "description": "展示长段手写内容中的自然字形变化和书写节奏。"
-  },
-  {
-    "title": "短内容签字案例整理",
-    "url": "case/short-signature-record.html",
-    "keywords": "模仿签字 短内容 结构 案例",
-    "description": "记录短内容签字从样本选择到效果调整的过程。"
-  },
-  {
-    "title": "笔迹服务资讯中心",
-    "url": "news/index.html",
-    "keywords": "模仿笔迹资讯 模仿签名资讯 笔迹鉴定知识",
-    "description": "持续更新笔迹服务、案例、费用与城市资讯。"
-  },
-  {
-    "title": "手写文件数字化资料栏目调整说明",
-    "url": "article/news/handwriting-digital-archive-2026.html",
-    "keywords": "手写文件 数字化 扫描 归档 网站动态",
-    "description": "手写文件数字化资料栏目重新整理扫描、命名、分类和备份内容，方便按实际处理步骤查找。"
-  },
-  {
-    "title": "手机怎样拍清楚手写样本？",
-    "url": "article/news/mobile-scan-guide.html",
-    "keywords": "手机拍摄 手写样本 清晰度 指南",
-    "description": "手机拍摄手写样本时，应保持页面端正、光线均匀，并同时保存完整页、局部图和未经压缩的原始照片。"
-  },
-  {
-    "title": "个人手写字体字稿模板新增常用标点",
-    "url": "article/news/font-library-punctuation-update.html",
-    "keywords": "手写字体 字符库 标点 模板 更新",
-    "description": "个人手写字体字稿模板增加中文标点、数字和常用符号区域，并补充分批采集和补字说明。"
-  },
-  {
-    "title": "学生书写习惯在暑期会发生哪些变化？",
-    "url": "article/news/student-handwriting-summer-topic.html",
-    "keywords": "学生书写 暑期 专题 更新",
-    "description": "学生在假期中的书写量、速度和工具变化可能影响字形表现，观察时应使用连续、自然且可比较的样本。"
-  },
-  {
-    "title": "案例资料库增加四类筛选标签",
-    "url": "article/news/case-library-tags-update.html",
-    "keywords": "案例资料库 标签 网站公告",
-    "description": "案例资料库增加模仿笔迹、模仿签名、笔迹鉴定和手写字体四类筛选标签，方便按需求查看。"
-  },
-  {
-    "title": "上海模仿笔迹与模仿签名服务",
-    "url": "city/shanghai/index.html",
-    "keywords": "上海模仿笔迹 上海模仿签名 上海模仿签字 上海笔迹鉴定 上海模仿笔迹需要什么样本 上海模仿签名费用受哪些因素影响 上海模仿签字怎样准备参考材料 上海笔迹鉴定需要哪些对比样本 上海模仿笔迹费用因素 上海模仿签名样本要求 上海手写文件版式处理 上海笔迹鉴定材料清单",
-    "description": "上海站的页面重点放在报价前的信息整理。只说“写一页”还不够，纸张尺寸、每页字数、表格位置、签字数量和交付日期都会改变实际工作量。询价时可先提交一页代表性内容、两至三份自然样本和最终文字清单。中英文、数字或特殊标点较多时，应在开始前单独列出。"
-  },
-  {
-    "title": "全国模仿笔迹与模仿签名城市服务",
-    "url": "city/index.html",
-    "keywords": "全国城市 模仿笔迹 模仿签名 笔迹鉴定 城市服务",
-    "description": "选择所在城市，查看模仿笔迹、模仿签名、笔迹鉴定和手写字体服务说明。"
-  },
-  {
-    "title": "联系我们",
-    "url": "contact/index.html",
-    "keywords": "联系 咨询 电话 邮箱 服务时间",
-    "description": "查看服务时间、联系方式和咨询前准备事项。"
-  },
-  {
-    "title": "北京模仿笔迹与模仿签名服务",
-    "url": "city/beijing/index.html",
-    "keywords": "北京模仿笔迹 北京模仿签名 北京模仿签字 北京笔迹鉴定 北京模仿笔迹需要什么样本 北京模仿签名费用受哪些因素影响 北京模仿签字怎样准备参考材料 北京笔迹鉴定需要哪些对比样本 北京模仿笔迹样本怎么选 北京模仿签名需要几份样本 北京手写文件如何整理 北京笔迹分析材料要求",
-    "description": "北京站收到的咨询常把签字页、会议记录和连续手写正文放在一起。三类材料的书写速度不同，整理时应先分组，再按年份标明来源。有连续正文时，保留完整页面；只有合同签字时，除局部近照外还要保留签字在页面中的实际尺寸。跨年份材料可按“早期、近期、当前”建立三个文件夹。"
-  },
-  {
-    "title": "广州模仿笔迹与模仿签名服务",
-    "url": "city/guangzhou/index.html",
-    "keywords": "广州模仿笔迹 广州模仿签名 广州模仿签字 广州笔迹鉴定 广州模仿笔迹需要什么样本 广州模仿签名费用受哪些因素影响 广州模仿签字怎样准备参考材料 广州笔迹鉴定需要哪些对比样本 广州中英文模仿签名 广州商务签字样本整理 广州模仿笔迹材料要求 广州手写文件数字混排",
-    "description": "广州站更关注中文姓名、英文首字母、数字日期同时出现的材料。不同字符的连接方式不一样，不能只用一张中文签字推断全部写法。商务签字、日常简写和完整姓名应分开保存。目标内容含英文或数字时，参考样本也应尽量出现相同字符，并保留签字周围的空白。"
-  },
-  {
-    "title": "深圳模仿笔迹与模仿签名服务",
-    "url": "city/shenzhen/index.html",
-    "keywords": "深圳模仿笔迹 深圳模仿签名 深圳模仿签字 深圳笔迹鉴定 深圳模仿笔迹需要什么样本 深圳模仿签名费用受哪些因素影响 深圳模仿签字怎样准备参考材料 深圳笔迹鉴定需要哪些对比样本 深圳模仿笔迹手机原图要求 深圳模仿签名线上提交 深圳手写文件电子版格式 深圳笔迹分析照片清晰度",
-    "description": "深圳站把线上提交作为内容重点。聊天软件压缩、截图转发和反复覆盖文件，是手机材料看不清、版本对不上的常见原因。拍摄后先保留原图，再按“日期—类型—页码”命名。完整页与细节图使用相同编号，目标文字修改后建立新版本，不覆盖已经确认的文件。"
-  },
-  {
-    "title": "杭州模仿笔迹与模仿签名服务",
-    "url": "city/hangzhou/index.html",
-    "keywords": "杭州模仿笔迹 杭州模仿签名 杭州模仿签字 杭州笔迹鉴定 杭州模仿笔迹需要什么样本 杭州模仿签名费用受哪些因素影响 杭州模仿签字怎样准备参考材料 杭州笔迹鉴定需要哪些对比样本 杭州个人手写字体制作 杭州手写字稿采集要求 杭州模仿笔迹测试样本 杭州签名字体数字化",
-    "description": "杭州站区分固定手写文件和个人手写字体。只做一段固定文字，不必采集成套字符；需要长期输入不同内容，才适合制作可安装的个人字体。字体项目先写一页测试稿，确认笔粗、字面大小和扫描效果。正式采集按批次编号，并提前整理常用汉字、数字、英文、标点和专有名词。"
-  },
-  {
-    "title": "南京模仿笔迹与模仿签名服务",
-    "url": "city/nanjing/index.html",
-    "keywords": "南京模仿笔迹 南京模仿签名 南京模仿签字 南京笔迹鉴定 南京模仿笔迹需要什么样本 南京模仿签名费用受哪些因素影响 南京模仿签字怎样准备参考材料 南京笔迹鉴定需要哪些对比样本 南京旧文件笔迹分析 南京模仿笔迹年代样本 南京签字扫描件要求 南京手写档案整理",
-    "description": "南京站侧重年代不同的手写文件。旧材料的纸张、书写工具和保存状态会影响画面，不能把扫描色差直接当成笔迹差异。原件、复印件、扫描件和手机照片分别标注。日期明确的材料按时间排序，日期不确定的单独放置，不凭纸张颜色推测形成时间。"
-  },
-  {
-    "title": "成都模仿笔迹与模仿签名服务",
-    "url": "city/chengdu/index.html",
-    "keywords": "成都模仿笔迹 成都模仿签名 成都模仿签字 成都笔迹鉴定 成都模仿笔迹需要什么样本 成都模仿签名费用受哪些因素影响 成都模仿签字怎样准备参考材料 成都笔迹鉴定需要哪些对比样本 成都自然手写笔迹样本 成都模仿笔迹重复字分析 成都模仿签名练习方法 成都手写笔记整理",
-    "description": "成都站关注自然书写状态。刻意抄写往往比日常笔记更慢、更工整，只看一页练习稿，容易忽略真实的字距、行距和连写习惯。便笺、课堂笔记、工作记录和正式签字按场景分类。优先保留连续内容，再从中找重复出现的常用字，观察结构在不同位置的自然变化。"
-  },
-  {
-    "title": "武汉模仿笔迹与模仿签名服务",
-    "url": "city/wuhan/index.html",
-    "keywords": "武汉模仿笔迹 武汉模仿签名 武汉模仿签字 武汉笔迹鉴定 武汉模仿笔迹需要什么样本 武汉模仿签名费用受哪些因素影响 武汉模仿签字怎样准备参考材料 武汉笔迹鉴定需要哪些对比样本 武汉多页手写文件价格因素 武汉模仿笔迹表格填写 武汉模仿签名页码整理 武汉笔迹样本版本管理",
-    "description": "武汉站重点说明多页手写文件的工作量。十页表格和十页连续正文并不是一回事，页面密度、批注数量、签字位置和版式要求都要分别说明。先统计正文、表格、批注和签字页各有多少，再选一页代表性内容。目标文字每次修改都增加版本号，最终按页码核对顺序。"
-  },
-  {
-    "title": "重庆模仿笔迹与模仿签名服务",
-    "url": "city/chongqing/index.html",
-    "keywords": "重庆模仿笔迹 重庆模仿签名 重庆模仿签字 重庆笔迹鉴定 重庆模仿笔迹需要什么样本 重庆模仿签名费用受哪些因素影响 重庆模仿签字怎样准备参考材料 重庆笔迹鉴定需要哪些对比样本 重庆模仿笔迹远程提交 重庆手写文件拍摄方法 重庆模仿签名原图要求 重庆笔迹样本分批编号",
-    "description": "重庆站围绕异地提交材料展开。装订文件容易拍歪，页面边缘和笔画比例随透视变形，只截取局部又会丢掉完整布局。镜头尽量与纸面平行，完整保留四个边角。材料较多时分 A、B、C 批次提交，每批附页数和用途说明，原图与裁切图使用同一编号。"
-  },
-  {
-    "title": "苏州模仿笔迹与模仿签名服务",
-    "url": "city/suzhou/index.html",
-    "keywords": "苏州模仿笔迹 苏州模仿签名 苏州模仿签字 苏州笔迹鉴定 苏州模仿笔迹需要什么样本 苏州模仿签名费用受哪些因素影响 苏州模仿签字怎样准备参考材料 苏州笔迹鉴定需要哪些对比样本 苏州短签名样本要求 苏州商务模仿签名 苏州模仿笔迹自然变化 苏州签字照片怎么拍",
-    "description": "苏州站重点讨论字数较少的签名。短签名包含的信息有限，一张最工整的样本无法说明正常速度，也看不出同一结构的自然变化。准备三份以上自然签写，正式文件和日常简写分组。照片不要贴边裁切，应保留整体尺寸、倾斜方向和长收笔周围的空白。"
-  },
-  {
-    "title": "天津模仿笔迹与模仿签名服务",
-    "url": "city/tianjin/index.html",
-    "keywords": "天津模仿笔迹 天津模仿签名 天津模仿签字 天津笔迹鉴定 天津模仿笔迹需要什么样本 天津模仿签名费用受哪些因素影响 天津模仿签字怎样准备参考材料 天津笔迹鉴定需要哪些对比样本 天津合同模仿签名样本 天津票据手写批注整理 天津模仿笔迹原件要求 天津笔迹分析材料目录",
-    "description": "天津站将合同签字、票据批注、表格填写和连续正文分开说明。它们形成于不同场景，书写空间和速度不一样，混在一起会让样本关系变得模糊。文件名直接注明原件、扫描件、复印件或手机照片。带印章、底纹的页面同时保留彩色整页图和无遮挡细节图，并记录大致形成时间。"
-  },
-  {
-    "title": "西安模仿笔迹与模仿签名服务",
-    "url": "city/xian/index.html",
-    "keywords": "西安模仿笔迹 西安模仿签名 西安模仿签字 西安笔迹鉴定 西安模仿笔迹需要什么样本 西安模仿签名费用受哪些因素影响 西安模仿签字怎样准备参考材料 西安笔迹鉴定需要哪些对比样本 西安档案笔迹分析 西安模仿笔迹原图保存 西安旧签字样本整理 西安手写文件来源记录",
-    "description": "西安站侧重档案类手写材料。页面来自哪里、何时形成、现在保存的是原件还是复印件，这些背景信息和清晰图片同样重要。每份档案记录来源、时间、用途和载体。完整页用于保留上下文，细节近照用于观察关键区域；调整亮度后的图片只作浏览副本，原图单独保存。"
-  },
-  {
-    "title": "手写样本准备文章",
-    "url": "category/mofang-biji/samples.html",
-    "keywords": "模仿笔迹 手写样本准备",
-    "description": "集中说明样本数量、清晰度、拍摄方式和不同材料的整理方法。"
-  },
-  {
-    "title": "笔迹特征分析文章",
-    "url": "category/mofang-biji/features.html",
-    "keywords": "模仿笔迹 笔迹特征分析",
-    "description": "从字形结构、运笔节奏、间距、力度和形成规律等角度整理相关文章。"
-  },
-  {
-    "title": "学生书写习惯文章",
-    "url": "category/mofang-biji/students.html",
-    "keywords": "模仿笔迹 学生书写习惯",
-    "description": "围绕学生笔迹变化、连续书写记录和样本准备方式整理内容。"
-  },
-  {
-    "title": "老年书写特征文章",
-    "url": "category/mofang-biji/seniors.html",
-    "keywords": "模仿笔迹 老年书写特征",
-    "description": "介绍老年书写中的速度、力度、结构变化和多时期样本比较方法。"
-  },
-  {
-    "title": "手写字体制作文章",
-    "url": "category/mofang-biji/fonts.html",
-    "keywords": "模仿笔迹 手写字体制作",
-    "description": "汇集字稿采集、字符模板、字体整理和成品测试相关内容。"
-  },
-  {
-    "title": "签字样本准备文章",
-    "url": "category/mofang-qianming/samples.html",
-    "keywords": "模仿签名 签字样本准备",
-    "description": "介绍签字样本数量、拍摄清晰度、多时期样本选择与分类方法。"
-  },
-  {
-    "title": "商务签字特征文章",
-    "url": "category/mofang-qianming/business.html",
-    "keywords": "模仿签名 商务签字特征",
-    "description": "围绕商务场景中的签字速度、连笔结构、整体比例和案例进行整理。"
-  },
-  {
-    "title": "签名笔迹分析文章",
-    "url": "category/mofang-qianming/analysis.html",
-    "keywords": "模仿签名 签名笔迹分析",
-    "description": "从字形、倾斜、连接、力度和真假对比等角度整理签名分析内容。"
-  },
-  {
-    "title": "签字练习问题文章",
-    "url": "category/mofang-qianming/practice.html",
-    "keywords": "模仿签名 签字练习问题",
-    "description": "汇集签字练习中的结构失衡、速度变化、连笔问题和案例记录。"
-  },
-  {
-    "title": "费用与周期文章",
-    "url": "category/mofang-qianming/price.html",
-    "keywords": "模仿签名 费用与周期",
-    "description": "说明样本质量、内容复杂程度、方案数量和交付时间对费用周期的影响。"
-  },
-  {
-    "title": "鉴定方法文章",
-    "url": "category/biji-jianding/methods.html",
-    "keywords": "笔迹鉴定 鉴定方法",
-    "description": "集中介绍常见观察方法、比较步骤和文件对比案例。"
-  },
-  {
-    "title": "真假分析文章",
-    "url": "category/biji-jianding/authenticity.html",
-    "keywords": "笔迹鉴定 真假分析",
-    "description": "围绕相同字、起收笔、转折、连笔和重复特征进行内容整理。"
-  },
-  {
-    "title": "形成规律文章",
-    "url": "category/biji-jianding/formation.html",
-    "keywords": "笔迹鉴定 形成规律",
-    "description": "介绍长期书写习惯、自然变化和稳定特征的观察方式。"
-  },
-  {
-    "title": "样本要求文章",
-    "url": "category/biji-jianding/samples.html",
-    "keywords": "笔迹鉴定 样本要求",
-    "description": "说明原件、扫描件、手机照片以及不同时期样本的准备标准。"
-  },
-  {
-    "title": "费用与周期文章",
-    "url": "category/biji-jianding/price.html",
-    "keywords": "笔迹鉴定 费用与周期",
-    "description": "整理分析范围、样本数量、材料清晰度和交付要求等影响因素。"
-  },
-  {
-    "title": "线上手写资料命名规则调整说明",
-    "url": "article/news/online-material-naming-update.html",
-    "keywords": "服务动态 线上手写资料命名规则完成更新",
-    "description": "线上提交手写资料时，完整页、细节图和补充样本采用统一命名方式，避免多页文件顺序混乱。"
-  },
-  {
-    "title": "案例展示页面改版：增加材料与过程说明",
-    "url": "article/news/case-display-process-update.html",
-    "keywords": "服务动态 案例展示内容整理流程调整说明",
-    "description": "案例展示页面增加需求、样本、处理过程和结果说明，让不同案例的参考信息更完整。"
-  },
-  {
-    "title": "手写文件扫描分辨率怎样设置？",
-    "url": "article/news/scan-resolution-guide.html",
-    "keywords": "资料指南 手写文件扫描分辨率与清晰度设置指南",
-    "description": "扫描手写文件时怎样选择分辨率、颜色模式和文件格式，并检查浅色笔画、裁边和压缩问题。"
-  },
-  {
-    "title": "多份手写样本怎样分类整理？",
-    "url": "article/news/handwriting-sample-sorting-guide.html",
-    "keywords": "资料指南 多份手写样本如何分类整理",
-    "description": "多份手写样本可以先按签字、正文和批注分类，再按时间、使用场景和文件载体建立清单。"
-  },
-  {
-    "title": "签字样本怎样选择和拍摄？",
-    "url": "article/news/signature-sample-selection-guide.html",
-    "keywords": "资料指南 签字样本选择与拍摄注意事项",
-    "description": "选择签字样本时，应优先保留多份自然签写，分开正式版与简写版，并拍摄完整页面和清晰细节。"
-  },
-  {
-    "title": "JPG、PNG与PDF怎样保存手写文件？",
-    "url": "article/news/handwritten-document-file-format.html",
-    "keywords": "资料指南 手写文件常用图片与文件格式说明",
-    "description": "JPG、PNG和PDF适合不同的手写文件用途，原始照片、透明图和多页浏览文件应分别保存。"
-  },
-  {
-    "title": "自然书写节奏与行距变化分析",
-    "url": "article/news/natural-writing-rhythm-topic.html",
-    "keywords": "专题内容 自然书写节奏与行距变化专题",
-    "description": "自然书写并非匀速完成，可从连续文字、行距、字距、停顿位置和页面空间观察书写节奏。"
-  },
-  {
-    "title": "老年书写样本的阶段变化怎样观察？",
-    "url": "article/news/senior-handwriting-observation-topic.html",
-    "keywords": "专题内容 老年书写样本阶段变化观察专题",
-    "description": "观察老年书写样本应建立时间线，并结合书写场景、工具和材料清晰度区分阶段变化与长期习惯。"
-  },
-  {
-    "title": "商务签字的整体结构怎样分析？",
-    "url": "article/news/business-signature-structure-topic.html",
-    "keywords": "专题内容 商务签字整体结构专题整理",
-    "description": "分析商务签字时，应先看宽高比例、倾斜方向和主要连接路线，再比较正式与日常场景中的自然变化。"
-  },
-  {
-    "title": "个人手写字体字稿怎样分批采集？",
-    "url": "article/news/personal-font-collection-topic.html",
-    "keywords": "专题内容 个人手写字体字稿采集专题",
-    "description": "个人手写字体字稿可以先测试少量字符，再按模板分批采集，并记录工具、日期、版本和补字情况。"
-  },
-  {
-    "title": "深圳站线上手写材料提交方式调整",
-    "url": "article/city/shenzhen-digital-material-news.html",
-    "keywords": "城市资讯 深圳站数字化手写材料整理说明上线",
-    "description": "深圳站调整线上手写材料提交方式，手机原图、完整页、细节图和PDF文件需要分开编号保存。"
-  },
-  {
-    "title": "北京站商务手写材料分类说明",
-    "url": "article/city/beijing-material-service-news.html",
-    "keywords": "城市资讯 北京站商务手写材料分类指南发布",
-    "description": "北京站说明商务文件、签字页、会议批注和自然书写样本的分类、编号与时间记录方法。"
-  },
-  {
-    "title": "广州站签字样本准备说明",
-    "url": "article/city/guangzhou-signature-service-news.html",
-    "keywords": "城市资讯 广州站签字样本整理内容更新",
-    "description": "广州站补充签字样本准备说明，商务签字、日常签名、简写版和完整版本需要分组整理。"
-  },
-  {
-    "title": "杭州站个人手写字体资料准备清单",
-    "url": "article/city/hangzhou-font-service-news.html",
-    "keywords": "城市资讯 杭州站个人手写字体资料清单发布",
-    "description": "杭州站整理个人手写字体资料清单，包括测试字稿、常用字符、数字标点、模板版本和补字记录。"
-  },
-  {
-    "title": "服务动态资讯",
-    "url": "news/service.html",
-    "keywords": "资讯分类 服务动态",
-    "description": "发布网站功能、资料接收、案例展示和服务内容调整。"
-  },
-  {
-    "title": "资料指南资讯",
-    "url": "news/guides.html",
-    "keywords": "资讯分类 资料指南",
-    "description": "整理手写样本拍摄、扫描、分类、命名和文件格式方法。"
-  },
-  {
-    "title": "专题内容资讯",
-    "url": "news/topics.html",
-    "keywords": "资讯分类 专题内容",
-    "description": "围绕自然书写、学生与老年笔迹、商务签字和个人字体开展专题整理。"
-  },
-  {
-    "title": "城市资讯资讯",
-    "url": "news/city.html",
-    "keywords": "资讯分类 城市资讯",
-    "description": "更新不同城市的资料准备重点、内容入口与本地服务说明。"
-  },
-  {
-    "title": "上海模仿笔迹：样本要求、手写文件与费用因素",
-    "url": "city/shanghai/mofang-biji.html",
-    "keywords": "上海模仿笔迹 上海模仿笔迹费用因素 上海模仿签名样本要求 上海手写文件版式处理 上海笔迹鉴定材料清单",
-    "description": "说明自然手写样本、目标文字、页面版式与完成时间怎样准备，重点补充商务文件、费用评估与页面版式确认。"
-  },
-  {
-    "title": "上海模仿签名：签字样本、结构观察与常见问题",
-    "url": "city/shanghai/mofang-qianming.html",
-    "keywords": "上海模仿签名 上海模仿笔迹费用因素 上海模仿签名样本要求 上海手写文件版式处理 上海笔迹鉴定材料清单",
-    "description": "说明自然签字样本、签名版本、整体结构和提交方式，重点补充商务文件、费用评估与页面版式确认。"
-  },
-  {
-    "title": "上海笔迹鉴定：对比样本、材料整理与笔迹分析",
-    "url": "city/shanghai/biji-jianding.html",
-    "keywords": "上海笔迹鉴定 上海模仿笔迹费用因素 上海模仿签名样本要求 上海手写文件版式处理 上海笔迹鉴定材料清单",
-    "description": "说明待分析文件、自然对比样本、形成时间和图片清晰度要求，重点补充商务文件、费用评估与页面版式确认。"
-  },
-  {
-    "title": "上海手写字体：字稿采集、字符范围与文件制作",
-    "url": "city/shanghai/shouxie-ziti.html",
-    "keywords": "上海手写字体 上海模仿笔迹费用因素 上海模仿签名样本要求 上海手写文件版式处理 上海笔迹鉴定材料清单",
-    "description": "说明固定手写文件与个人字体的区别、测试字稿和字符采集方法，重点补充商务文件、费用评估与页面版式确认。"
-  },
-  {
-    "title": "北京模仿笔迹：样本要求、手写文件与费用因素",
-    "url": "city/beijing/mofang-biji.html",
-    "keywords": "北京模仿笔迹 北京模仿笔迹样本怎么选 北京模仿签名需要几份样本 北京手写文件如何整理 北京笔迹分析材料要求",
-    "description": "说明自然手写样本、目标文字、页面版式与完成时间怎样准备，重点补充办公文件、会议批注与跨年份签字样本。"
-  },
-  {
-    "title": "北京模仿签名：签字样本、结构观察与常见问题",
-    "url": "city/beijing/mofang-qianming.html",
-    "keywords": "北京模仿签名 北京模仿笔迹样本怎么选 北京模仿签名需要几份样本 北京手写文件如何整理 北京笔迹分析材料要求",
-    "description": "说明自然签字样本、签名版本、整体结构和提交方式，重点补充办公文件、会议批注与跨年份签字样本。"
-  },
-  {
-    "title": "北京笔迹鉴定：对比样本、材料整理与笔迹分析",
-    "url": "city/beijing/biji-jianding.html",
-    "keywords": "北京笔迹鉴定 北京模仿笔迹样本怎么选 北京模仿签名需要几份样本 北京手写文件如何整理 北京笔迹分析材料要求",
-    "description": "说明待分析文件、自然对比样本、形成时间和图片清晰度要求，重点补充办公文件、会议批注与跨年份签字样本。"
-  },
-  {
-    "title": "北京手写字体：字稿采集、字符范围与文件制作",
-    "url": "city/beijing/shouxie-ziti.html",
-    "keywords": "北京手写字体 北京模仿笔迹样本怎么选 北京模仿签名需要几份样本 北京手写文件如何整理 北京笔迹分析材料要求",
-    "description": "说明固定手写文件与个人字体的区别、测试字稿和字符采集方法，重点补充办公文件、会议批注与跨年份签字样本。"
-  },
-  {
-    "title": "广州模仿笔迹：样本要求、手写文件与费用因素",
-    "url": "city/guangzhou/mofang-biji.html",
-    "keywords": "广州模仿笔迹 广州中英文模仿签名 广州商务签字样本整理 广州模仿笔迹材料要求 广州手写文件数字混排",
-    "description": "说明自然手写样本、目标文字、页面版式与完成时间怎样准备，重点补充商务往来文件与中英文签字样本。"
-  },
-  {
-    "title": "广州模仿签名：签字样本、结构观察与常见问题",
-    "url": "city/guangzhou/mofang-qianming.html",
-    "keywords": "广州模仿签名 广州中英文模仿签名 广州商务签字样本整理 广州模仿笔迹材料要求 广州手写文件数字混排",
-    "description": "说明自然签字样本、签名版本、整体结构和提交方式，重点补充商务往来文件与中英文签字样本。"
-  },
-  {
-    "title": "广州笔迹鉴定：对比样本、材料整理与笔迹分析",
-    "url": "city/guangzhou/biji-jianding.html",
-    "keywords": "广州笔迹鉴定 广州中英文模仿签名 广州商务签字样本整理 广州模仿笔迹材料要求 广州手写文件数字混排",
-    "description": "说明待分析文件、自然对比样本、形成时间和图片清晰度要求，重点补充商务往来文件与中英文签字样本。"
-  },
-  {
-    "title": "广州手写字体：字稿采集、字符范围与文件制作",
-    "url": "city/guangzhou/shouxie-ziti.html",
-    "keywords": "广州手写字体 广州中英文模仿签名 广州商务签字样本整理 广州模仿笔迹材料要求 广州手写文件数字混排",
-    "description": "说明固定手写文件与个人字体的区别、测试字稿和字符采集方法，重点补充商务往来文件与中英文签字样本。"
-  },
-  {
-    "title": "深圳模仿笔迹：样本要求、手写文件与费用因素",
-    "url": "city/shenzhen/mofang-biji.html",
-    "keywords": "深圳模仿笔迹 深圳模仿笔迹手机原图要求 深圳模仿签名线上提交 深圳手写文件电子版格式 深圳笔迹分析照片清晰度",
-    "description": "说明自然手写样本、目标文字、页面版式与完成时间怎样准备，重点补充手机原图、电子文件与线上版本管理。"
-  },
-  {
-    "title": "深圳模仿签名：签字样本、结构观察与常见问题",
-    "url": "city/shenzhen/mofang-qianming.html",
-    "keywords": "深圳模仿签名 深圳模仿笔迹手机原图要求 深圳模仿签名线上提交 深圳手写文件电子版格式 深圳笔迹分析照片清晰度",
-    "description": "说明自然签字样本、签名版本、整体结构和提交方式，重点补充手机原图、电子文件与线上版本管理。"
-  },
-  {
-    "title": "深圳笔迹鉴定：对比样本、材料整理与笔迹分析",
-    "url": "city/shenzhen/biji-jianding.html",
-    "keywords": "深圳笔迹鉴定 深圳模仿笔迹手机原图要求 深圳模仿签名线上提交 深圳手写文件电子版格式 深圳笔迹分析照片清晰度",
-    "description": "说明待分析文件、自然对比样本、形成时间和图片清晰度要求，重点补充手机原图、电子文件与线上版本管理。"
-  },
-  {
-    "title": "深圳手写字体：字稿采集、字符范围与文件制作",
-    "url": "city/shenzhen/shouxie-ziti.html",
-    "keywords": "深圳手写字体 深圳模仿笔迹手机原图要求 深圳模仿签名线上提交 深圳手写文件电子版格式 深圳笔迹分析照片清晰度",
-    "description": "说明固定手写文件与个人字体的区别、测试字稿和字符采集方法，重点补充手机原图、电子文件与线上版本管理。"
-  },
-  {
-    "title": "杭州模仿笔迹：样本要求、手写文件与费用因素",
-    "url": "city/hangzhou/mofang-biji.html",
-    "keywords": "杭州模仿笔迹 杭州个人手写字体制作 杭州手写字稿采集要求 杭州模仿笔迹测试样本 杭州签名字体数字化",
-    "description": "说明自然手写样本、目标文字、页面版式与完成时间怎样准备，重点补充个人手写字体、测试字稿与字符补录。"
-  },
-  {
-    "title": "杭州模仿签名：签字样本、结构观察与常见问题",
-    "url": "city/hangzhou/mofang-qianming.html",
-    "keywords": "杭州模仿签名 杭州个人手写字体制作 杭州手写字稿采集要求 杭州模仿笔迹测试样本 杭州签名字体数字化",
-    "description": "说明自然签字样本、签名版本、整体结构和提交方式，重点补充个人手写字体、测试字稿与字符补录。"
-  },
-  {
-    "title": "杭州笔迹鉴定：对比样本、材料整理与笔迹分析",
-    "url": "city/hangzhou/biji-jianding.html",
-    "keywords": "杭州笔迹鉴定 杭州个人手写字体制作 杭州手写字稿采集要求 杭州模仿笔迹测试样本 杭州签名字体数字化",
-    "description": "说明待分析文件、自然对比样本、形成时间和图片清晰度要求，重点补充个人手写字体、测试字稿与字符补录。"
-  },
-  {
-    "title": "杭州手写字体：字稿采集、字符范围与文件制作",
-    "url": "city/hangzhou/shouxie-ziti.html",
-    "keywords": "杭州手写字体 杭州个人手写字体制作 杭州手写字稿采集要求 杭州模仿笔迹测试样本 杭州签名字体数字化",
-    "description": "说明固定手写文件与个人字体的区别、测试字稿和字符采集方法，重点补充个人手写字体、测试字稿与字符补录。"
-  },
-  {
-    "title": "南京模仿笔迹：样本要求、手写文件与费用因素",
-    "url": "city/nanjing/mofang-biji.html",
-    "keywords": "南京模仿笔迹 南京旧文件笔迹分析 南京模仿笔迹年代样本 南京签字扫描件要求 南京手写档案整理",
-    "description": "说明自然手写样本、目标文字、页面版式与完成时间怎样准备，重点补充历史文件、扫描材料与时间阶段对照。"
-  },
-  {
-    "title": "南京模仿签名：签字样本、结构观察与常见问题",
-    "url": "city/nanjing/mofang-qianming.html",
-    "keywords": "南京模仿签名 南京旧文件笔迹分析 南京模仿笔迹年代样本 南京签字扫描件要求 南京手写档案整理",
-    "description": "说明自然签字样本、签名版本、整体结构和提交方式，重点补充历史文件、扫描材料与时间阶段对照。"
-  },
-  {
-    "title": "南京笔迹鉴定：对比样本、材料整理与笔迹分析",
-    "url": "city/nanjing/biji-jianding.html",
-    "keywords": "南京笔迹鉴定 南京旧文件笔迹分析 南京模仿笔迹年代样本 南京签字扫描件要求 南京手写档案整理",
-    "description": "说明待分析文件、自然对比样本、形成时间和图片清晰度要求，重点补充历史文件、扫描材料与时间阶段对照。"
-  },
-  {
-    "title": "南京手写字体：字稿采集、字符范围与文件制作",
-    "url": "city/nanjing/shouxie-ziti.html",
-    "keywords": "南京手写字体 南京旧文件笔迹分析 南京模仿笔迹年代样本 南京签字扫描件要求 南京手写档案整理",
-    "description": "说明固定手写文件与个人字体的区别、测试字稿和字符采集方法，重点补充历史文件、扫描材料与时间阶段对照。"
-  },
-  {
-    "title": "成都模仿笔迹：样本要求、手写文件与费用因素",
-    "url": "city/chengdu/mofang-biji.html",
-    "keywords": "成都模仿笔迹 成都自然手写笔迹样本 成都模仿笔迹重复字分析 成都模仿签名练习方法 成都手写笔记整理",
-    "description": "说明自然手写样本、目标文字、页面版式与完成时间怎样准备，重点补充自然笔记、书写速度与重复字变化。"
-  },
-  {
-    "title": "成都模仿签名：签字样本、结构观察与常见问题",
-    "url": "city/chengdu/mofang-qianming.html",
-    "keywords": "成都模仿签名 成都自然手写笔迹样本 成都模仿笔迹重复字分析 成都模仿签名练习方法 成都手写笔记整理",
-    "description": "说明自然签字样本、签名版本、整体结构和提交方式，重点补充自然笔记、书写速度与重复字变化。"
-  },
-  {
-    "title": "成都笔迹鉴定：对比样本、材料整理与笔迹分析",
-    "url": "city/chengdu/biji-jianding.html",
-    "keywords": "成都笔迹鉴定 成都自然手写笔迹样本 成都模仿笔迹重复字分析 成都模仿签名练习方法 成都手写笔记整理",
-    "description": "说明待分析文件、自然对比样本、形成时间和图片清晰度要求，重点补充自然笔记、书写速度与重复字变化。"
-  },
-  {
-    "title": "成都手写字体：字稿采集、字符范围与文件制作",
-    "url": "city/chengdu/shouxie-ziti.html",
-    "keywords": "成都手写字体 成都自然手写笔迹样本 成都模仿笔迹重复字分析 成都模仿签名练习方法 成都手写笔记整理",
-    "description": "说明固定手写文件与个人字体的区别、测试字稿和字符采集方法，重点补充自然笔记、书写速度与重复字变化。"
-  },
-  {
-    "title": "武汉模仿笔迹：样本要求、手写文件与费用因素",
-    "url": "city/wuhan/mofang-biji.html",
-    "keywords": "武汉模仿笔迹 武汉多页手写文件价格因素 武汉模仿笔迹表格填写 武汉模仿签名页码整理 武汉笔迹样本版本管理",
-    "description": "说明自然手写样本、目标文字、页面版式与完成时间怎样准备，重点补充多页文件、表格填写与页码版本核对。"
-  },
-  {
-    "title": "武汉模仿签名：签字样本、结构观察与常见问题",
-    "url": "city/wuhan/mofang-qianming.html",
-    "keywords": "武汉模仿签名 武汉多页手写文件价格因素 武汉模仿笔迹表格填写 武汉模仿签名页码整理 武汉笔迹样本版本管理",
-    "description": "说明自然签字样本、签名版本、整体结构和提交方式，重点补充多页文件、表格填写与页码版本核对。"
-  },
-  {
-    "title": "武汉笔迹鉴定：对比样本、材料整理与笔迹分析",
-    "url": "city/wuhan/biji-jianding.html",
-    "keywords": "武汉笔迹鉴定 武汉多页手写文件价格因素 武汉模仿笔迹表格填写 武汉模仿签名页码整理 武汉笔迹样本版本管理",
-    "description": "说明待分析文件、自然对比样本、形成时间和图片清晰度要求，重点补充多页文件、表格填写与页码版本核对。"
-  },
-  {
-    "title": "武汉手写字体：字稿采集、字符范围与文件制作",
-    "url": "city/wuhan/shouxie-ziti.html",
-    "keywords": "武汉手写字体 武汉多页手写文件价格因素 武汉模仿笔迹表格填写 武汉模仿签名页码整理 武汉笔迹样本版本管理",
-    "description": "说明固定手写文件与个人字体的区别、测试字稿和字符采集方法，重点补充多页文件、表格填写与页码版本核对。"
-  },
-  {
-    "title": "重庆模仿笔迹：样本要求、手写文件与费用因素",
-    "url": "city/chongqing/mofang-biji.html",
-    "keywords": "重庆模仿笔迹 重庆模仿笔迹远程提交 重庆手写文件拍摄方法 重庆模仿签名原图要求 重庆笔迹样本分批编号",
-    "description": "说明自然手写样本、目标文字、页面版式与完成时间怎样准备，重点补充异地拍摄、分批提交与页面透视校正。"
-  },
-  {
-    "title": "重庆模仿签名：签字样本、结构观察与常见问题",
-    "url": "city/chongqing/mofang-qianming.html",
-    "keywords": "重庆模仿签名 重庆模仿笔迹远程提交 重庆手写文件拍摄方法 重庆模仿签名原图要求 重庆笔迹样本分批编号",
-    "description": "说明自然签字样本、签名版本、整体结构和提交方式，重点补充异地拍摄、分批提交与页面透视校正。"
-  },
-  {
-    "title": "重庆笔迹鉴定：对比样本、材料整理与笔迹分析",
-    "url": "city/chongqing/biji-jianding.html",
-    "keywords": "重庆笔迹鉴定 重庆模仿笔迹远程提交 重庆手写文件拍摄方法 重庆模仿签名原图要求 重庆笔迹样本分批编号",
-    "description": "说明待分析文件、自然对比样本、形成时间和图片清晰度要求，重点补充异地拍摄、分批提交与页面透视校正。"
-  },
-  {
-    "title": "重庆手写字体：字稿采集、字符范围与文件制作",
-    "url": "city/chongqing/shouxie-ziti.html",
-    "keywords": "重庆手写字体 重庆模仿笔迹远程提交 重庆手写文件拍摄方法 重庆模仿签名原图要求 重庆笔迹样本分批编号",
-    "description": "说明固定手写文件与个人字体的区别、测试字稿和字符采集方法，重点补充异地拍摄、分批提交与页面透视校正。"
-  },
-  {
-    "title": "苏州模仿笔迹：样本要求、手写文件与费用因素",
-    "url": "city/suzhou/mofang-biji.html",
-    "keywords": "苏州模仿笔迹 苏州短签名样本要求 苏州商务模仿签名 苏州模仿笔迹自然变化 苏州签字照片怎么拍",
-    "description": "说明自然手写样本、目标文字、页面版式与完成时间怎样准备，重点补充短签名、商务签字与自然变化范围。"
-  },
-  {
-    "title": "苏州模仿签名：签字样本、结构观察与常见问题",
-    "url": "city/suzhou/mofang-qianming.html",
-    "keywords": "苏州模仿签名 苏州短签名样本要求 苏州商务模仿签名 苏州模仿笔迹自然变化 苏州签字照片怎么拍",
-    "description": "说明自然签字样本、签名版本、整体结构和提交方式，重点补充短签名、商务签字与自然变化范围。"
-  },
-  {
-    "title": "苏州笔迹鉴定：对比样本、材料整理与笔迹分析",
-    "url": "city/suzhou/biji-jianding.html",
-    "keywords": "苏州笔迹鉴定 苏州短签名样本要求 苏州商务模仿签名 苏州模仿笔迹自然变化 苏州签字照片怎么拍",
-    "description": "说明待分析文件、自然对比样本、形成时间和图片清晰度要求，重点补充短签名、商务签字与自然变化范围。"
-  },
-  {
-    "title": "苏州手写字体：字稿采集、字符范围与文件制作",
-    "url": "city/suzhou/shouxie-ziti.html",
-    "keywords": "苏州手写字体 苏州短签名样本要求 苏州商务模仿签名 苏州模仿笔迹自然变化 苏州签字照片怎么拍",
-    "description": "说明固定手写文件与个人字体的区别、测试字稿和字符采集方法，重点补充短签名、商务签字与自然变化范围。"
-  },
-  {
-    "title": "天津模仿笔迹：样本要求、手写文件与费用因素",
-    "url": "city/tianjin/mofang-biji.html",
-    "keywords": "天津模仿笔迹 天津合同模仿签名样本 天津票据手写批注整理 天津模仿笔迹原件要求 天津笔迹分析材料目录",
-    "description": "说明自然手写样本、目标文字、页面版式与完成时间怎样准备，重点补充合同签字、票据批注与材料载体标记。"
-  },
-  {
-    "title": "天津模仿签名：签字样本、结构观察与常见问题",
-    "url": "city/tianjin/mofang-qianming.html",
-    "keywords": "天津模仿签名 天津合同模仿签名样本 天津票据手写批注整理 天津模仿笔迹原件要求 天津笔迹分析材料目录",
-    "description": "说明自然签字样本、签名版本、整体结构和提交方式，重点补充合同签字、票据批注与材料载体标记。"
-  },
-  {
-    "title": "天津笔迹鉴定：对比样本、材料整理与笔迹分析",
-    "url": "city/tianjin/biji-jianding.html",
-    "keywords": "天津笔迹鉴定 天津合同模仿签名样本 天津票据手写批注整理 天津模仿笔迹原件要求 天津笔迹分析材料目录",
-    "description": "说明待分析文件、自然对比样本、形成时间和图片清晰度要求，重点补充合同签字、票据批注与材料载体标记。"
-  },
-  {
-    "title": "天津手写字体：字稿采集、字符范围与文件制作",
-    "url": "city/tianjin/shouxie-ziti.html",
-    "keywords": "天津手写字体 天津合同模仿签名样本 天津票据手写批注整理 天津模仿笔迹原件要求 天津笔迹分析材料目录",
-    "description": "说明固定手写文件与个人字体的区别、测试字稿和字符采集方法，重点补充合同签字、票据批注与材料载体标记。"
-  },
-  {
-    "title": "西安模仿笔迹：样本要求、手写文件与费用因素",
-    "url": "city/xian/mofang-biji.html",
-    "keywords": "西安模仿笔迹 西安档案笔迹分析 西安模仿笔迹原图保存 西安旧签字样本整理 西安手写文件来源记录",
-    "description": "说明自然手写样本、目标文字、页面版式与完成时间怎样准备，重点补充档案来源、自然笔迹记录与原图保存。"
-  },
-  {
-    "title": "西安模仿签名：签字样本、结构观察与常见问题",
-    "url": "city/xian/mofang-qianming.html",
-    "keywords": "西安模仿签名 西安档案笔迹分析 西安模仿笔迹原图保存 西安旧签字样本整理 西安手写文件来源记录",
-    "description": "说明自然签字样本、签名版本、整体结构和提交方式，重点补充档案来源、自然笔迹记录与原图保存。"
-  },
-  {
-    "title": "西安笔迹鉴定：对比样本、材料整理与笔迹分析",
-    "url": "city/xian/biji-jianding.html",
-    "keywords": "西安笔迹鉴定 西安档案笔迹分析 西安模仿笔迹原图保存 西安旧签字样本整理 西安手写文件来源记录",
-    "description": "说明待分析文件、自然对比样本、形成时间和图片清晰度要求，重点补充档案来源、自然笔迹记录与原图保存。"
-  },
-  {
-    "title": "西安手写字体：字稿采集、字符范围与文件制作",
-    "url": "city/xian/shouxie-ziti.html",
-    "keywords": "西安手写字体 西安档案笔迹分析 西安模仿笔迹原图保存 西安旧签字样本整理 西安手写文件来源记录",
-    "description": "说明固定手写文件与个人字体的区别、测试字稿和字符采集方法，重点补充档案来源、自然笔迹记录与原图保存。"
-  },
-  {
-    "title": "关于模仿笔迹网",
-    "url": "about/index.html",
-    "keywords": "关于我们 网站定位 服务栏目",
-    "description": "了解模仿笔迹网的网站定位、服务范围、内容维护方式和咨询流程。"
-  },
-  {
-    "title": "上海模仿笔迹与模仿签名怎么准备样本？手写文件整理要点",
-    "url": "city/shanghai/shanghai-mofang-biji-signature-samples.html",
-    "keywords": "上海模仿笔迹 上海模仿签名 上海模仿签字 上海笔迹鉴定",
-    "description": "上海分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。"
-  },
-  {
-    "title": "北京模仿签名与模仿笔迹资料怎么整理？样本分类指南",
-    "url": "city/beijing/beijing-mofang-qianming-biji-guide.html",
-    "keywords": "北京模仿笔迹 北京模仿签名 北京模仿签字 北京笔迹鉴定",
-    "description": "北京分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。"
-  },
-  {
-    "title": "广州模仿签名需要哪些样本？模仿签字资料整理方法",
-    "url": "city/guangzhou/guangzhou-mofang-qianming-sample-guide.html",
-    "keywords": "广州模仿笔迹 广州模仿签名 广州模仿签字 广州笔迹鉴定",
-    "description": "广州分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。"
-  },
-  {
-    "title": "深圳模仿笔迹资料如何线上提交？模仿签名文件整理指南",
-    "url": "city/shenzhen/shenzhen-mofang-biji-digital-files.html",
-    "keywords": "深圳模仿笔迹 深圳模仿签名 深圳模仿签字 深圳笔迹鉴定",
-    "description": "深圳分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。"
-  },
-  {
-    "title": "杭州模仿笔迹与手写字体资料怎么准备？签名样本要点",
-    "url": "city/hangzhou/hangzhou-mofang-biji-font-samples.html",
-    "keywords": "杭州模仿笔迹 杭州模仿签名 杭州模仿签字 杭州笔迹鉴定",
-    "description": "杭州分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。"
-  },
-  {
-    "title": "南京笔迹鉴定需要哪些对比样本？模仿笔迹观察要点",
-    "url": "city/nanjing/nanjing-biji-jianding-comparison-samples.html",
-    "keywords": "南京模仿笔迹 南京模仿签名 南京模仿签字 南京笔迹鉴定",
-    "description": "南京分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。"
-  },
-  {
-    "title": "成都模仿笔迹怎样说明页面要求？模仿签字样本准备",
-    "url": "city/chengdu/chengdu-mofang-biji-page-layout.html",
-    "keywords": "成都模仿笔迹 成都模仿签名 成都模仿签字 成都笔迹鉴定",
-    "description": "成都分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。"
-  },
-  {
-    "title": "武汉模仿签名为什么要看自然书写？模仿签字观察说明",
-    "url": "city/wuhan/wuhan-mofang-qianming-writing-rhythm.html",
-    "keywords": "武汉模仿笔迹 武汉模仿签名 武汉模仿签字 武汉笔迹鉴定",
-    "description": "武汉分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。"
-  },
-  {
-    "title": "重庆模仿笔迹照片怎么拍清楚？签名与笔迹鉴定扫描建议",
-    "url": "city/chongqing/chongqing-mofang-biji-photo-scan.html",
-    "keywords": "重庆模仿笔迹 重庆模仿签名 重庆模仿签字 重庆笔迹鉴定",
-    "description": "重庆分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。"
-  },
-  {
-    "title": "苏州模仿签名商务文件如何整理？模仿签字资料清单",
-    "url": "city/suzhou/suzhou-mofang-qianming-business-files.html",
-    "keywords": "苏州模仿笔迹 苏州模仿签名 苏州模仿签字 苏州笔迹鉴定",
-    "description": "苏州分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。"
-  },
-  {
-    "title": "天津模仿笔迹跨时期样本怎么选？签名与鉴定资料说明",
-    "url": "city/tianjin/tianjin-mofang-biji-multi-period-samples.html",
-    "keywords": "天津模仿笔迹 天津模仿签名 天津模仿签字 天津笔迹鉴定",
-    "description": "天津分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。"
-  },
-  {
-    "title": "西安笔迹鉴定原件与复印件怎么准备？模仿笔迹要点",
-    "url": "city/xian/xian-biji-jianding-original-copy.html",
-    "keywords": "西安模仿笔迹 西安模仿签名 西安模仿签字 西安笔迹鉴定",
-    "description": "西安分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。"
-  },
-  {
-    "title": "模仿笔迹怎样选择自然手写样本？从整页文字到细节照片",
-    "url": "article/mofang-biji/natural-handwriting-sample-selection.html",
-    "keywords": "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 模仿笔迹",
-    "description": "模仿笔迹样本选择指南，介绍自然手写材料、整页照片、重复字、书写时间和目标文字的整理方法。"
-  },
-  {
-    "title": "模仿签名与模仿签字样本怎么分类？正式签名和快速签字的区别",
-    "url": "article/mofang-qianming/signature-versions-and-sample-sorting.html",
-    "keywords": "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 模仿签名",
-    "description": "说明模仿签名、模仿签字样本的分类方式，比较正式签名、快速签字、简写版本与多时期材料。"
-  },
-  {
-    "title": "笔迹鉴定对比材料怎么准备？原件、扫描件与自然样本说明",
-    "url": "article/biji-jianding/original-scan-comparison-materials.html",
-    "keywords": "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 笔迹鉴定",
-    "description": "笔迹鉴定材料准备说明，介绍待分析文件、自然对比样本、原件、扫描件、相同字和形成时间的整理方法。"
-  },
-  {
-    "title": "长篇模仿笔迹怎样保持自然？字距、行距与书写节奏分析",
-    "url": "article/mofang-biji/long-text-style-consistency.html",
-    "keywords": "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 模仿笔迹",
-    "description": "长篇模仿笔迹怎样保持自然？字距、行距与书写节奏分析，围绕模仿笔迹、模仿签名、模仿签字与笔迹鉴定说明自然样本和文件整理方法。"
-  },
-  {
-    "title": "模仿笔迹样本里没有相同字怎么办？偏旁与相近结构整理方法",
-    "url": "article/mofang-biji/missing-same-characters-sample.html",
-    "keywords": "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 模仿笔迹",
-    "description": "模仿笔迹样本里没有相同字怎么办？偏旁与相近结构整理方法，围绕模仿笔迹、模仿签名、模仿签字与笔迹鉴定说明自然样本和文件整理方法。"
-  },
-  {
-    "title": "模仿签名怎样选择主要版本？正式签名、简写与快速签字比较",
-    "url": "article/mofang-qianming/formal-short-signature-versions.html",
-    "keywords": "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 模仿签名",
-    "description": "模仿签名怎样选择主要版本？正式签名、简写与快速签字比较，围绕模仿笔迹、模仿签名、模仿签字与笔迹鉴定说明自然样本和文件整理方法。"
-  },
-  {
-    "title": "模仿签字照片怎么选？不同场景、书写工具与纸张的影响",
-    "url": "article/mofang-qianming/signature-photo-scene-differences.html",
-    "keywords": "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 模仿签名",
-    "description": "模仿签字照片怎么选？不同场景、书写工具与纸张的影响，围绕模仿笔迹、模仿签名、模仿签字与笔迹鉴定说明自然样本和文件整理方法。"
-  },
-  {
-    "title": "笔迹鉴定为什么重视同期样本？形成时间与自然变化说明",
-    "url": "article/biji-jianding/same-period-comparison-samples.html",
-    "keywords": "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 笔迹鉴定",
-    "description": "笔迹鉴定为什么重视同期样本？形成时间与自然变化说明，围绕模仿笔迹、模仿签名、模仿签字与笔迹鉴定说明自然样本和文件整理方法。"
-  },
-  {
-    "title": "上海商务签批与日常手写样本怎样分组？模仿笔迹整理方法",
-    "url": "city/shanghai/shanghai-business-handwriting-groups.html",
-    "keywords": "上海模仿笔迹 上海模仿签名 上海模仿签字 上海笔迹鉴定",
-    "description": "上海商务签批与日常手写样本怎样分组？模仿笔迹整理方法，围绕上海模仿笔迹、模仿签名、模仿签字和笔迹鉴定介绍资料准备方法。"
-  },
-  {
-    "title": "北京多页模仿笔迹资料怎样编号？签名与鉴定文件清单",
-    "url": "city/beijing/beijing-multipage-file-numbering.html",
-    "keywords": "北京模仿笔迹 北京模仿签名 北京模仿签字 北京笔迹鉴定",
-    "description": "北京多页模仿笔迹资料怎样编号？签名与鉴定文件清单，围绕北京模仿笔迹、模仿签名、模仿签字和笔迹鉴定介绍资料准备方法。"
-  },
-  {
-    "title": "广州模仿签名样本怎样按场景选择？模仿签字版本说明",
-    "url": "city/guangzhou/guangzhou-signature-scene-selection.html",
-    "keywords": "广州模仿笔迹 广州模仿签名 广州模仿签字 广州笔迹鉴定",
-    "description": "广州模仿签名样本怎样按场景选择？模仿签字版本说明，围绕广州模仿笔迹、模仿签名、模仿签字和笔迹鉴定介绍资料准备方法。"
-  },
-  {
-    "title": "深圳模仿笔迹线上资料怎么保存？手机原图与PDF整理方法",
-    "url": "city/shenzhen/shenzhen-original-photo-pdf-sorting.html",
-    "keywords": "深圳模仿笔迹 深圳模仿签名 深圳模仿签字 深圳笔迹鉴定",
-    "description": "深圳模仿笔迹线上资料怎么保存？手机原图与PDF整理方法，围绕深圳模仿笔迹、模仿签名、模仿签字和笔迹鉴定介绍资料准备方法。"
-  },
-  {
-    "title": "杭州手写文案版式如何说明？模仿笔迹行数与落款整理",
-    "url": "city/hangzhou/hangzhou-handwritten-copy-layout.html",
-    "keywords": "杭州模仿笔迹 杭州模仿签名 杭州模仿签字 杭州笔迹鉴定",
-    "description": "杭州手写文案版式如何说明？模仿笔迹行数与落款整理，围绕杭州模仿笔迹、模仿签名、模仿签字和笔迹鉴定介绍资料准备方法。"
-  },
-  {
-    "title": "南京笔迹鉴定同期样本怎么找？模仿笔迹对比资料说明",
-    "url": "city/nanjing/nanjing-same-period-identification.html",
-    "keywords": "南京模仿笔迹 南京模仿签名 南京模仿签字 南京笔迹鉴定",
-    "description": "南京笔迹鉴定同期样本怎么找？模仿笔迹对比资料说明，围绕南京模仿笔迹、模仿签名、模仿签字和笔迹鉴定介绍资料准备方法。"
-  },
-  {
-    "title": "成都长篇模仿笔迹怎样确定行距？整页手写内容准备",
-    "url": "city/chengdu/chengdu-long-handwriting-line-spacing.html",
-    "keywords": "成都模仿笔迹 成都模仿签名 成都模仿签字 成都笔迹鉴定",
-    "description": "成都长篇模仿笔迹怎样确定行距？整页手写内容准备，围绕成都模仿笔迹、模仿签名、模仿签字和笔迹鉴定介绍资料准备方法。"
-  },
-  {
-    "title": "武汉模仿签字多个版本怎么选？正式签名与快速签写比较",
-    "url": "city/wuhan/wuhan-signature-version-comparison.html",
-    "keywords": "武汉模仿笔迹 武汉模仿签名 武汉模仿签字 武汉笔迹鉴定",
-    "description": "武汉模仿签字多个版本怎么选？正式签名与快速签写比较，围绕武汉模仿笔迹、模仿签名、模仿签字和笔迹鉴定介绍资料准备方法。"
-  },
-  {
-    "title": "重庆弯曲纸张上的笔迹怎么拍？模仿签名与鉴定照片建议",
-    "url": "city/chongqing/chongqing-curved-paper-photo.html",
-    "keywords": "重庆模仿笔迹 重庆模仿签名 重庆模仿签字 重庆笔迹鉴定",
-    "description": "重庆弯曲纸张上的笔迹怎么拍？模仿签名与鉴定照片建议，围绕重庆模仿笔迹、模仿签名、模仿签字和笔迹鉴定介绍资料准备方法。"
-  },
-  {
-    "title": "苏州商务签字中的日期和短句怎么整理？模仿签名资料说明",
-    "url": "city/suzhou/suzhou-signature-date-short-text.html",
-    "keywords": "苏州模仿笔迹 苏州模仿签名 苏州模仿签字 苏州笔迹鉴定",
-    "description": "苏州商务签字中的日期和短句怎么整理？模仿签名资料说明，围绕苏州模仿笔迹、模仿签名、模仿签字和笔迹鉴定介绍资料准备方法。"
-  },
-  {
-    "title": "天津模仿笔迹中的数字与日期怎么准备？签字样本要点",
-    "url": "city/tianjin/tianjin-numbers-dates-samples.html",
-    "keywords": "天津模仿笔迹 天津模仿签名 天津模仿签字 天津笔迹鉴定",
-    "description": "天津模仿笔迹中的数字与日期怎么准备？签字样本要点，围绕天津模仿笔迹、模仿签名、模仿签字和笔迹鉴定介绍资料准备方法。"
-  },
-  {
-    "title": "西安笔迹鉴定扫描用彩色还是灰度？模仿笔迹图片保存说明",
-    "url": "city/xian/xian-scan-color-mode.html",
-    "keywords": "西安模仿笔迹 西安模仿签名 西安模仿签字 西安笔迹鉴定",
-    "description": "西安笔迹鉴定扫描用彩色还是灰度？模仿笔迹图片保存说明，围绕西安模仿笔迹、模仿签名、模仿签字和笔迹鉴定介绍资料准备方法。"
-  },
-  {
-    "title": "手写样本完整页与细节图提交方式更新",
-    "url": "article/news/full-page-detail-image-update.html",
-    "keywords": "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 资讯",
-    "description": "手写样本完整页与细节图提交方式更新，围绕模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新资料整理说明。"
-  },
-  {
-    "title": "多时期签名与笔迹对比专题内容上线",
-    "url": "article/news/multi-period-signature-comparison-topic.html",
-    "keywords": "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 资讯",
-    "description": "多时期签名与笔迹对比专题内容上线，围绕模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新资料整理说明。"
-  },
-  {
-    "title": "上海站手写样本清单新增页码与场景说明",
-    "url": "city/shanghai/shanghai-sample-list-update.html",
-    "keywords": "上海模仿笔迹 上海模仿签名 上海模仿签字 上海笔迹鉴定",
-    "description": "上海站手写样本清单新增页码与场景说明，围绕上海模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新服务资料。"
-  },
-  {
-    "title": "北京站签名样本新增正式版与简写版分组",
-    "url": "city/beijing/beijing-signature-group-update.html",
-    "keywords": "北京模仿笔迹 北京模仿签名 北京模仿签字 北京笔迹鉴定",
-    "description": "北京站签名样本新增正式版与简写版分组，围绕北京模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新服务资料。"
-  },
-  {
-    "title": "广州站手机拍摄手写文件补充光线与角度说明",
-    "url": "city/guangzhou/guangzhou-mobile-photo-update.html",
-    "keywords": "广州模仿笔迹 广州模仿签名 广州模仿签字 广州笔迹鉴定",
-    "description": "广州站手机拍摄手写文件补充光线与角度说明，围绕广州模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新服务资料。"
-  },
-  {
-    "title": "深圳站线上资料新增版本日期与原图标记",
-    "url": "city/shenzhen/shenzhen-file-version-update.html",
-    "keywords": "深圳模仿笔迹 深圳模仿签名 深圳模仿签字 深圳笔迹鉴定",
-    "description": "深圳站线上资料新增版本日期与原图标记，围绕深圳模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新服务资料。"
-  },
-  {
-    "title": "杭州站手写文案新增版式确认清单",
-    "url": "city/hangzhou/hangzhou-layout-check-update.html",
-    "keywords": "杭州模仿笔迹 杭州模仿签名 杭州模仿签字 杭州笔迹鉴定",
-    "description": "杭州站手写文案新增版式确认清单，围绕杭州模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新服务资料。"
-  },
-  {
-    "title": "南京站笔迹鉴定资料新增同期样本提示",
-    "url": "city/nanjing/nanjing-same-period-update.html",
-    "keywords": "南京模仿笔迹 南京模仿签名 南京模仿签字 南京笔迹鉴定",
-    "description": "南京站笔迹鉴定资料新增同期样本提示，围绕南京模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新服务资料。"
-  },
-  {
-    "title": "成都站长篇模仿笔迹新增整页检查步骤",
-    "url": "city/chengdu/chengdu-long-text-check-update.html",
-    "keywords": "成都模仿笔迹 成都模仿签名 成都模仿签字 成都笔迹鉴定",
-    "description": "成都站长篇模仿笔迹新增整页检查步骤，围绕成都模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新服务资料。"
-  },
-  {
-    "title": "武汉站模仿签字新增主要版本确认项",
-    "url": "city/wuhan/wuhan-signature-version-update.html",
-    "keywords": "武汉模仿笔迹 武汉模仿签名 武汉模仿签字 武汉笔迹鉴定",
-    "description": "武汉站模仿签字新增主要版本确认项，围绕武汉模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新服务资料。"
-  },
-  {
-    "title": "重庆站曲面文件拍摄新增原图保存说明",
-    "url": "city/chongqing/chongqing-original-photo-update.html",
-    "keywords": "重庆模仿笔迹 重庆模仿签名 重庆模仿签字 重庆笔迹鉴定",
-    "description": "重庆站曲面文件拍摄新增原图保存说明，围绕重庆模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新服务资料。"
-  },
-  {
-    "title": "苏州站商务签字新增日期与短句分类",
-    "url": "city/suzhou/suzhou-business-signing-update.html",
-    "keywords": "苏州模仿笔迹 苏州模仿签名 苏州模仿签字 苏州笔迹鉴定",
-    "description": "苏州站商务签字新增日期与短句分类，围绕苏州模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新服务资料。"
-  },
-  {
-    "title": "天津站手写数字样本新增日期与编号清单",
-    "url": "city/tianjin/tianjin-number-sample-update.html",
-    "keywords": "天津模仿笔迹 天津模仿签名 天津模仿签字 天津笔迹鉴定",
-    "description": "天津站手写数字样本新增日期与编号清单，围绕天津模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新服务资料。"
-  },
-  {
-    "title": "西安站扫描资料新增彩色底稿保存提示",
-    "url": "city/xian/xian-color-scan-update.html",
-    "keywords": "西安模仿笔迹 西安模仿签名 西安模仿签字 西安笔迹鉴定",
-    "description": "西安站扫描资料新增彩色底稿保存提示，围绕西安模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新服务资料。"
-  },
-  {
-    "title": "模仿笔迹短句与整页内容有什么区别？样本和版式准备方法",
-    "url": "article/mofang-biji/short-sentence-full-page-differences.html",
-    "keywords": "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 模仿笔迹",
-    "description": "模仿笔迹短句与整页内容有什么区别？样本和版式准备方法，围绕模仿笔迹、模仿签名、模仿签字和笔迹鉴定说明自然样本与文件整理方法。"
-  },
-  {
-    "title": "模仿签名为什么需要多次重复签写？稳定特征与自然变化",
-    "url": "article/mofang-qianming/repeated-signatures-stable-features.html",
-    "keywords": "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 模仿签名",
-    "description": "模仿签名为什么需要多次重复签写？稳定特征与自然变化，围绕模仿笔迹、模仿签名、模仿签字和笔迹鉴定说明自然样本与文件整理方法。"
-  },
-  {
-    "title": "笔迹鉴定图片被压缩会丢失什么？原图、截图与扫描件比较",
-    "url": "article/biji-jianding/compressed-images-detail-loss.html",
-    "keywords": "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 笔迹鉴定",
-    "description": "笔迹鉴定图片被压缩会丢失什么？原图、截图与扫描件比较，围绕模仿笔迹、模仿签名、模仿签字和笔迹鉴定说明自然样本与文件整理方法。"
-  },
-  {
-    "title": "一页手写材料拍了三次，模仿笔迹参考图为什么仍要保留原件边缘",
-    "url": "article/mofang-biji/full-page-photo-keep-edges.html",
-    "keywords": "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 模仿笔迹参考图 手写文件拍照 完整页面 原图保存 模仿笔迹能鉴定出来吗",
-    "description": "从一页手写材料的三种照片说起，说明模仿笔迹参考图为什么要保留页面边缘、原始比例和未经压缩的完整图。"
-  },
-  {
-    "title": "同一个名字签了五遍都不完全相同：模仿签名要看的是稳定动作",
-    "url": "article/mofang-qianming/five-signatures-stable-motion.html",
-    "keywords": "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 多次签名样本 签名稳定特征 签名自然变化 模仿签名能鉴定出来吗 模仿签名技巧",
-    "description": "同一个名字连续签五遍也会有自然差别。文章从真实书写变化入手，说明模仿签名样本中稳定动作与偶然差异怎么看。"
-  },
-  {
-    "title": "合同末页空间变窄时，模仿签字的大小和收笔会跟着变",
-    "url": "article/mofang-qianming/contract-last-page-signing-space.html",
-    "keywords": "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 合同末页签字 签字位置 快速签字 模仿签字能鉴别出来吗 签字样本",
-    "description": "合同末页签字区域变窄，签字大小、倾斜和收笔会自然调整。结合模仿签字场景说明为什么样本要保留页面位置。"
-  },
-  {
-    "title": "先别急着问准不准——笔迹鉴定结果取决于这些材料条件",
-    "url": "article/biji-jianding/accuracy-depends-on-materials.html",
-    "keywords": "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 笔迹鉴定准确吗 笔迹鉴定流程 笔迹鉴定机构哪里有 同期样本 笔迹鉴定材料",
-    "description": "笔迹鉴定准确吗，不能脱离材料条件回答。原件、同期自然样本、图像质量和文件来源都会影响可比较范围。"
-  },
-  {
-    "title": "笔迹鉴定收费标准背后：页数、样本时期与图像质量怎样影响工作量",
-    "url": "article/biji-jianding/pricing-workload-factors.html",
-    "keywords": "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 笔迹鉴定收费标准 笔迹鉴定费用 笔迹鉴定一个字多少钱 笔迹鉴定机构 材料页数",
-    "description": "解读笔迹鉴定收费标准背后的实际工作量，说明文件页数、样本时期、图像质量和检材数量为何会影响费用沟通。"
-  }
+   {
+      "description" : "模仿笔迹服务分类、案例、费用和相关知识。",
+      "keywords" : "模仿笔迹 手写笔迹 成人笔迹 学生笔迹",
+      "title" : "模仿笔迹服务与案例",
+      "url" : "category/mofang-biji.html"
+   },
+   {
+      "description" : "模仿签名、签字样本、笔迹特征和费用说明。",
+      "keywords" : "模仿签名 签名模仿 模仿签字 商务签字",
+      "title" : "模仿签名服务与案例",
+      "url" : "category/mofang-qianming.html"
+   },
+   {
+      "description" : "笔迹真假分析、常见鉴定方法和样本要求。",
+      "keywords" : "笔迹鉴定 真假分析 鉴定方法 形成规律",
+      "title" : "笔迹鉴定方法与案例",
+      "url" : "category/biji-jianding.html"
+   },
+   {
+      "description" : "分析样本、字数、复杂程度和完成时间对服务价格的影响。",
+      "keywords" : "上海 模仿笔迹 费用 价格 多少钱",
+      "title" : "上海模仿笔迹费用多少钱？价格与服务分析",
+      "url" : "article/shanghai-mofang-biji-price.html"
+   },
+   {
+      "description" : "说明自然手写样本的数量、清晰度和内容覆盖范围。",
+      "keywords" : "模仿笔迹 手写样本 样本准备",
+      "title" : "模仿笔迹需要提供哪些手写样本？",
+      "url" : "article/mofang-biji/handwriting-samples.html"
+   },
+   {
+      "description" : "介绍字形、间距、力度、连笔与整体布局等观察角度。",
+      "keywords" : "笔迹分析 字形 间距 力度 连笔",
+      "title" : "笔迹分析中常见的书写特征有哪些？",
+      "url" : "article/mofang-biji/handwriting-features.html"
+   },
+   {
+      "description" : "介绍字稿采集、字符覆盖、整理和字体生成流程。",
+      "keywords" : "个人手写字体 字稿 字符 字库",
+      "title" : "个人手写字体制作需要准备多少字？",
+      "url" : "article/mofang-biji/personal-font-characters.html"
+   },
+   {
+      "description" : "分析不同学习阶段的字形、速度与结构控制变化。",
+      "keywords" : "学生笔迹 字形变化 书写习惯",
+      "title" : "学生笔迹的字形变化与书写习惯分析",
+      "url" : "article/mofang-biji/student-handwriting-changes.html"
+   },
+   {
+      "description" : "梳理老人手写样本中常见的力度、速度和结构变化。",
+      "keywords" : "老人笔迹 力度 速度 字形",
+      "title" : "老人笔迹研究：力度、速度与字形特征",
+      "url" : "article/mofang-biji/senior-handwriting-features.html"
+   },
+   {
+      "description" : "说明签字样本的清晰度、数量和书写变化要求。",
+      "keywords" : "模仿签名 签字样本 样本",
+      "title" : "模仿签名需要提供哪些签字样本？",
+      "url" : "article/mofang-qianming/signature-samples.html"
+   },
+   {
+      "description" : "从起笔、连写、收笔和比例认识商务签字结构。",
+      "keywords" : "商务签字 速度 连笔 结构",
+      "title" : "商务签字中的速度、连笔与整体结构",
+      "url" : "article/mofang-qianming/business-signature-structure.html"
+   },
+   {
+      "description" : "介绍签名字形、倾斜、连接、力度与空间布局。",
+      "keywords" : "签名笔迹 字形 倾斜 连笔 力度",
+      "title" : "签名笔迹分析主要观察哪些特征？",
+      "url" : "article/mofang-qianming/signature-features.html"
+   },
+   {
+      "description" : "整理字形失衡、速度不一致和连笔生硬等问题。",
+      "keywords" : "模仿签字 练习 结构问题",
+      "title" : "模仿签字练习中常见的结构问题",
+      "url" : "article/mofang-qianming/signature-practice-problems.html"
+   },
+   {
+      "description" : "说明样本、复杂程度、方案数量和周期对费用的影响。",
+      "keywords" : "模仿签名 费用 价格 因素",
+      "title" : "模仿签名费用由哪些因素决定？",
+      "url" : "article/mofang-qianming/signature-price-factors.html"
+   },
+   {
+      "description" : "介绍笔迹鉴定常见的观察维度和样本要求。",
+      "keywords" : "笔迹鉴定 方法 字形 力度 连笔",
+      "title" : "笔迹鉴定通常采用哪些观察方法？",
+      "url" : "article/biji-jianding/identification-methods.html"
+   },
+   {
+      "description" : "从相同字形、转折、起收笔和重复特征进行对比。",
+      "keywords" : "笔迹真假 对比 起收笔 连笔",
+      "title" : "笔迹真假分析需要对比哪些细节？",
+      "url" : "article/biji-jianding/authenticity-comparison.html"
+   },
+   {
+      "description" : "介绍长期书写动作在字形和空间组织上的稳定特征。",
+      "keywords" : "书写习惯 笔迹形成 规律",
+      "title" : "个人书写习惯与笔迹形成规律",
+      "url" : "article/biji-jianding/handwriting-formation.html"
+   },
+   {
+      "description" : "说明自然书写样本的时间、内容与清晰度要求。",
+      "keywords" : "笔迹分析 样本 原件 扫描件",
+      "title" : "进行笔迹分析需要准备哪些样本？",
+      "url" : "article/biji-jianding/identification-samples.html"
+   },
+   {
+      "description" : "分析样本数量、范围和交付要求对费用周期的影响。",
+      "keywords" : "笔迹鉴定 费用 周期 价格",
+      "title" : "笔迹鉴定费用与完成周期说明",
+      "url" : "article/biji-jianding/identification-price-cycle.html"
+   },
+   {
+      "description" : "上海站说明线上接收手写资料时需要准备的目标内容、自然样本、页面数量、文件格式和时间要求。",
+      "keywords" : "上海 手写资料 线上接收 文件命名 城市资讯",
+      "title" : "上海站线上手写资料接收说明",
+      "url" : "article/city/shanghai-service-news.html"
+   },
+   {
+      "description" : "按业务类型整理的笔迹服务案例内容。",
+      "keywords" : "模仿笔迹案例 模仿签名案例 笔迹鉴定案例",
+      "title" : "笔迹服务案例展示",
+      "url" : "case/index.html"
+   },
+   {
+      "description" : "展示样本整理、字形拆分、书写节奏调整与成稿过程。",
+      "keywords" : "上海 模仿笔迹 案例 样本 字形",
+      "title" : "上海模仿笔迹综合案例",
+      "url" : "case/shanghai-handwriting.html"
+   },
+   {
+      "description" : "展示商务签字样本整理、结构观察和效果调整过程。",
+      "keywords" : "模仿签名 商务签字 案例 连笔 转折",
+      "title" : "商务签字笔迹特征案例",
+      "url" : "case/business-signature.html"
+   },
+   {
+      "description" : "按字形结构、书写力度与空间布局展示对比过程。",
+      "keywords" : "笔迹鉴定 手写文件 对比 案例",
+      "title" : "手写文件笔迹对比案例",
+      "url" : "case/document-comparison.html"
+   },
+   {
+      "description" : "展示字稿采集、字符整理、校正和安装测试过程。",
+      "keywords" : "手写字体 字库制作 案例 字稿",
+      "title" : "个人手写字体制作案例",
+      "url" : "case/personal-font.html"
+   },
+   {
+      "description" : "展示不同时间与场景签字样本的分类和特征整理过程。",
+      "keywords" : "模仿签名 多组签字 样本整理 案例",
+      "title" : "多组签字样本整理案例",
+      "url" : "case/multi-signature-samples.html"
+   },
+   {
+      "description" : "对比多份文件中保持稳定的字形与空间组织特征。",
+      "keywords" : "笔迹分析 书写习惯 形成规律 案例",
+      "title" : "书写习惯与形成规律案例",
+      "url" : "case/handwriting-habit-patterns.html"
+   },
+   {
+      "description" : "展示长段手写内容中的自然字形变化和书写节奏。",
+      "keywords" : "模仿笔迹 自然书写 行距 节奏 案例",
+      "title" : "自然书写笔迹案例档案",
+      "url" : "case/natural-handwriting-archive.html"
+   },
+   {
+      "description" : "记录短内容签字从样本选择到效果调整的过程。",
+      "keywords" : "模仿签字 短内容 结构 案例",
+      "title" : "短内容签字案例整理",
+      "url" : "case/short-signature-record.html"
+   },
+   {
+      "description" : "持续更新笔迹服务、案例、费用与城市资讯。",
+      "keywords" : "模仿笔迹资讯 模仿签名资讯 笔迹鉴定知识",
+      "title" : "笔迹服务资讯中心",
+      "url" : "news/index.html"
+   },
+   {
+      "description" : "手写文件数字化资料栏目重新整理扫描、命名、分类和备份内容，方便按实际处理步骤查找。",
+      "keywords" : "手写文件 数字化 扫描 归档 网站动态",
+      "title" : "手写文件数字化资料栏目调整说明",
+      "url" : "article/news/handwriting-digital-archive-2026.html"
+   },
+   {
+      "description" : "手机拍摄手写样本时，应保持页面端正、光线均匀，并同时保存完整页、局部图和未经压缩的原始照片。",
+      "keywords" : "手机拍摄 手写样本 清晰度 指南",
+      "title" : "手机怎样拍清楚手写样本？",
+      "url" : "article/news/mobile-scan-guide.html"
+   },
+   {
+      "description" : "个人手写字体字稿模板增加中文标点、数字和常用符号区域，并补充分批采集和补字说明。",
+      "keywords" : "手写字体 字符库 标点 模板 更新",
+      "title" : "个人手写字体字稿模板新增常用标点",
+      "url" : "article/news/font-library-punctuation-update.html"
+   },
+   {
+      "description" : "学生在假期中的书写量、速度和工具变化可能影响字形表现，观察时应使用连续、自然且可比较的样本。",
+      "keywords" : "学生书写 暑期 专题 更新",
+      "title" : "学生书写习惯在暑期会发生哪些变化？",
+      "url" : "article/news/student-handwriting-summer-topic.html"
+   },
+   {
+      "description" : "案例资料库增加模仿笔迹、模仿签名、笔迹鉴定和手写字体四类筛选标签，方便按需求查看。",
+      "keywords" : "案例资料库 标签 网站公告",
+      "title" : "案例资料库增加四类筛选标签",
+      "url" : "article/news/case-library-tags-update.html"
+   },
+   {
+      "description" : "上海站的页面重点放在报价前的信息整理。只说“写一页”还不够，纸张尺寸、每页字数、表格位置、签字数量和交付日期都会改变实际工作量。询价时可先提交一页代表性内容、两至三份自然样本和最终文字清单。中英文、数字或特殊标点较多时，应在开始前单独列出。",
+      "keywords" : "上海模仿笔迹 上海模仿签名 上海模仿签字 上海笔迹鉴定 上海模仿笔迹需要什么样本 上海模仿签名费用受哪些因素影响 上海模仿签字怎样准备参考材料 上海笔迹鉴定需要哪些对比样本 上海模仿笔迹费用因素 上海模仿签名样本要求 上海手写文件版式处理 上海笔迹鉴定材料清单",
+      "title" : "上海模仿笔迹与模仿签名服务",
+      "url" : "city/shanghai/index.html"
+   },
+   {
+      "description" : "选择所在城市，查看模仿笔迹、模仿签名、笔迹鉴定和手写字体服务说明。",
+      "keywords" : "全国城市 模仿笔迹 模仿签名 笔迹鉴定 城市服务",
+      "title" : "全国模仿笔迹与模仿签名城市服务",
+      "url" : "city/index.html"
+   },
+   {
+      "description" : "查看服务时间、联系方式和咨询前准备事项。",
+      "keywords" : "联系 咨询 电话 邮箱 服务时间",
+      "title" : "联系我们",
+      "url" : "contact/index.html"
+   },
+   {
+      "description" : "北京站收到的咨询常把签字页、会议记录和连续手写正文放在一起。三类材料的书写速度不同，整理时应先分组，再按年份标明来源。有连续正文时，保留完整页面；只有合同签字时，除局部近照外还要保留签字在页面中的实际尺寸。跨年份材料可按“早期、近期、当前”建立三个文件夹。",
+      "keywords" : "北京模仿笔迹 北京模仿签名 北京模仿签字 北京笔迹鉴定 北京模仿笔迹需要什么样本 北京模仿签名费用受哪些因素影响 北京模仿签字怎样准备参考材料 北京笔迹鉴定需要哪些对比样本 北京模仿笔迹样本怎么选 北京模仿签名需要几份样本 北京手写文件如何整理 北京笔迹分析材料要求",
+      "title" : "北京模仿笔迹与模仿签名服务",
+      "url" : "city/beijing/index.html"
+   },
+   {
+      "description" : "广州站更关注中文姓名、英文首字母、数字日期同时出现的材料。不同字符的连接方式不一样，不能只用一张中文签字推断全部写法。商务签字、日常简写和完整姓名应分开保存。目标内容含英文或数字时，参考样本也应尽量出现相同字符，并保留签字周围的空白。",
+      "keywords" : "广州模仿笔迹 广州模仿签名 广州模仿签字 广州笔迹鉴定 广州模仿笔迹需要什么样本 广州模仿签名费用受哪些因素影响 广州模仿签字怎样准备参考材料 广州笔迹鉴定需要哪些对比样本 广州中英文模仿签名 广州商务签字样本整理 广州模仿笔迹材料要求 广州手写文件数字混排",
+      "title" : "广州模仿笔迹与模仿签名服务",
+      "url" : "city/guangzhou/index.html"
+   },
+   {
+      "description" : "深圳站把线上提交作为内容重点。聊天软件压缩、截图转发和反复覆盖文件，是手机材料看不清、版本对不上的常见原因。拍摄后先保留原图，再按“日期—类型—页码”命名。完整页与细节图使用相同编号，目标文字修改后建立新版本，不覆盖已经确认的文件。",
+      "keywords" : "深圳模仿笔迹 深圳模仿签名 深圳模仿签字 深圳笔迹鉴定 深圳模仿笔迹需要什么样本 深圳模仿签名费用受哪些因素影响 深圳模仿签字怎样准备参考材料 深圳笔迹鉴定需要哪些对比样本 深圳模仿笔迹手机原图要求 深圳模仿签名线上提交 深圳手写文件电子版格式 深圳笔迹分析照片清晰度",
+      "title" : "深圳模仿笔迹与模仿签名服务",
+      "url" : "city/shenzhen/index.html"
+   },
+   {
+      "description" : "杭州站区分固定手写文件和个人手写字体。只做一段固定文字，不必采集成套字符；需要长期输入不同内容，才适合制作可安装的个人字体。字体项目先写一页测试稿，确认笔粗、字面大小和扫描效果。正式采集按批次编号，并提前整理常用汉字、数字、英文、标点和专有名词。",
+      "keywords" : "杭州模仿笔迹 杭州模仿签名 杭州模仿签字 杭州笔迹鉴定 杭州模仿笔迹需要什么样本 杭州模仿签名费用受哪些因素影响 杭州模仿签字怎样准备参考材料 杭州笔迹鉴定需要哪些对比样本 杭州个人手写字体制作 杭州手写字稿采集要求 杭州模仿笔迹测试样本 杭州签名字体数字化",
+      "title" : "杭州模仿笔迹与模仿签名服务",
+      "url" : "city/hangzhou/index.html"
+   },
+   {
+      "description" : "南京站侧重年代不同的手写文件。旧材料的纸张、书写工具和保存状态会影响画面，不能把扫描色差直接当成笔迹差异。原件、复印件、扫描件和手机照片分别标注。日期明确的材料按时间排序，日期不确定的单独放置，不凭纸张颜色推测形成时间。",
+      "keywords" : "南京模仿笔迹 南京模仿签名 南京模仿签字 南京笔迹鉴定 南京模仿笔迹需要什么样本 南京模仿签名费用受哪些因素影响 南京模仿签字怎样准备参考材料 南京笔迹鉴定需要哪些对比样本 南京旧文件笔迹分析 南京模仿笔迹年代样本 南京签字扫描件要求 南京手写档案整理",
+      "title" : "南京模仿笔迹与模仿签名服务",
+      "url" : "city/nanjing/index.html"
+   },
+   {
+      "description" : "成都站关注自然书写状态。刻意抄写往往比日常笔记更慢、更工整，只看一页练习稿，容易忽略真实的字距、行距和连写习惯。便笺、课堂笔记、工作记录和正式签字按场景分类。优先保留连续内容，再从中找重复出现的常用字，观察结构在不同位置的自然变化。",
+      "keywords" : "成都模仿笔迹 成都模仿签名 成都模仿签字 成都笔迹鉴定 成都模仿笔迹需要什么样本 成都模仿签名费用受哪些因素影响 成都模仿签字怎样准备参考材料 成都笔迹鉴定需要哪些对比样本 成都自然手写笔迹样本 成都模仿笔迹重复字分析 成都模仿签名练习方法 成都手写笔记整理",
+      "title" : "成都模仿笔迹与模仿签名服务",
+      "url" : "city/chengdu/index.html"
+   },
+   {
+      "description" : "武汉站重点说明多页手写文件的工作量。十页表格和十页连续正文并不是一回事，页面密度、批注数量、签字位置和版式要求都要分别说明。先统计正文、表格、批注和签字页各有多少，再选一页代表性内容。目标文字每次修改都增加版本号，最终按页码核对顺序。",
+      "keywords" : "武汉模仿笔迹 武汉模仿签名 武汉模仿签字 武汉笔迹鉴定 武汉模仿笔迹需要什么样本 武汉模仿签名费用受哪些因素影响 武汉模仿签字怎样准备参考材料 武汉笔迹鉴定需要哪些对比样本 武汉多页手写文件价格因素 武汉模仿笔迹表格填写 武汉模仿签名页码整理 武汉笔迹样本版本管理",
+      "title" : "武汉模仿笔迹与模仿签名服务",
+      "url" : "city/wuhan/index.html"
+   },
+   {
+      "description" : "重庆站围绕异地提交材料展开。装订文件容易拍歪，页面边缘和笔画比例随透视变形，只截取局部又会丢掉完整布局。镜头尽量与纸面平行，完整保留四个边角。材料较多时分 A、B、C 批次提交，每批附页数和用途说明，原图与裁切图使用同一编号。",
+      "keywords" : "重庆模仿笔迹 重庆模仿签名 重庆模仿签字 重庆笔迹鉴定 重庆模仿笔迹需要什么样本 重庆模仿签名费用受哪些因素影响 重庆模仿签字怎样准备参考材料 重庆笔迹鉴定需要哪些对比样本 重庆模仿笔迹远程提交 重庆手写文件拍摄方法 重庆模仿签名原图要求 重庆笔迹样本分批编号",
+      "title" : "重庆模仿笔迹与模仿签名服务",
+      "url" : "city/chongqing/index.html"
+   },
+   {
+      "description" : "苏州站重点讨论字数较少的签名。短签名包含的信息有限，一张最工整的样本无法说明正常速度，也看不出同一结构的自然变化。准备三份以上自然签写，正式文件和日常简写分组。照片不要贴边裁切，应保留整体尺寸、倾斜方向和长收笔周围的空白。",
+      "keywords" : "苏州模仿笔迹 苏州模仿签名 苏州模仿签字 苏州笔迹鉴定 苏州模仿笔迹需要什么样本 苏州模仿签名费用受哪些因素影响 苏州模仿签字怎样准备参考材料 苏州笔迹鉴定需要哪些对比样本 苏州短签名样本要求 苏州商务模仿签名 苏州模仿笔迹自然变化 苏州签字照片怎么拍",
+      "title" : "苏州模仿笔迹与模仿签名服务",
+      "url" : "city/suzhou/index.html"
+   },
+   {
+      "description" : "天津站将合同签字、票据批注、表格填写和连续正文分开说明。它们形成于不同场景，书写空间和速度不一样，混在一起会让样本关系变得模糊。文件名直接注明原件、扫描件、复印件或手机照片。带印章、底纹的页面同时保留彩色整页图和无遮挡细节图，并记录大致形成时间。",
+      "keywords" : "天津模仿笔迹 天津模仿签名 天津模仿签字 天津笔迹鉴定 天津模仿笔迹需要什么样本 天津模仿签名费用受哪些因素影响 天津模仿签字怎样准备参考材料 天津笔迹鉴定需要哪些对比样本 天津合同模仿签名样本 天津票据手写批注整理 天津模仿笔迹原件要求 天津笔迹分析材料目录",
+      "title" : "天津模仿笔迹与模仿签名服务",
+      "url" : "city/tianjin/index.html"
+   },
+   {
+      "description" : "西安站侧重档案类手写材料。页面来自哪里、何时形成、现在保存的是原件还是复印件，这些背景信息和清晰图片同样重要。每份档案记录来源、时间、用途和载体。完整页用于保留上下文，细节近照用于观察关键区域；调整亮度后的图片只作浏览副本，原图单独保存。",
+      "keywords" : "西安模仿笔迹 西安模仿签名 西安模仿签字 西安笔迹鉴定 西安模仿笔迹需要什么样本 西安模仿签名费用受哪些因素影响 西安模仿签字怎样准备参考材料 西安笔迹鉴定需要哪些对比样本 西安档案笔迹分析 西安模仿笔迹原图保存 西安旧签字样本整理 西安手写文件来源记录",
+      "title" : "西安模仿笔迹与模仿签名服务",
+      "url" : "city/xian/index.html"
+   },
+   {
+      "description" : "集中说明样本数量、清晰度、拍摄方式和不同材料的整理方法。",
+      "keywords" : "模仿笔迹 手写样本准备",
+      "title" : "手写样本准备文章",
+      "url" : "category/mofang-biji/samples.html"
+   },
+   {
+      "description" : "从字形结构、运笔节奏、间距、力度和形成规律等角度整理相关文章。",
+      "keywords" : "模仿笔迹 笔迹特征分析",
+      "title" : "笔迹特征分析文章",
+      "url" : "category/mofang-biji/features.html"
+   },
+   {
+      "description" : "围绕学生笔迹变化、连续书写记录和样本准备方式整理内容。",
+      "keywords" : "模仿笔迹 学生书写习惯",
+      "title" : "学生书写习惯文章",
+      "url" : "category/mofang-biji/students.html"
+   },
+   {
+      "description" : "介绍老年书写中的速度、力度、结构变化和多时期样本比较方法。",
+      "keywords" : "模仿笔迹 老年书写特征",
+      "title" : "老年书写特征文章",
+      "url" : "category/mofang-biji/seniors.html"
+   },
+   {
+      "description" : "汇集字稿采集、字符模板、字体整理和成品测试相关内容。",
+      "keywords" : "模仿笔迹 手写字体制作",
+      "title" : "手写字体制作文章",
+      "url" : "category/mofang-biji/fonts.html"
+   },
+   {
+      "description" : "介绍签字样本数量、拍摄清晰度、多时期样本选择与分类方法。",
+      "keywords" : "模仿签名 签字样本准备",
+      "title" : "签字样本准备文章",
+      "url" : "category/mofang-qianming/samples.html"
+   },
+   {
+      "description" : "围绕商务场景中的签字速度、连笔结构、整体比例和案例进行整理。",
+      "keywords" : "模仿签名 商务签字特征",
+      "title" : "商务签字特征文章",
+      "url" : "category/mofang-qianming/business.html"
+   },
+   {
+      "description" : "从字形、倾斜、连接、力度和真假对比等角度整理签名分析内容。",
+      "keywords" : "模仿签名 签名笔迹分析",
+      "title" : "签名笔迹分析文章",
+      "url" : "category/mofang-qianming/analysis.html"
+   },
+   {
+      "description" : "汇集签字练习中的结构失衡、速度变化、连笔问题和案例记录。",
+      "keywords" : "模仿签名 签字练习问题",
+      "title" : "签字练习问题文章",
+      "url" : "category/mofang-qianming/practice.html"
+   },
+   {
+      "description" : "说明样本质量、内容复杂程度、方案数量和交付时间对费用周期的影响。",
+      "keywords" : "模仿签名 费用与周期",
+      "title" : "费用与周期文章",
+      "url" : "category/mofang-qianming/price.html"
+   },
+   {
+      "description" : "集中介绍常见观察方法、比较步骤和文件对比案例。",
+      "keywords" : "笔迹鉴定 鉴定方法",
+      "title" : "鉴定方法文章",
+      "url" : "category/biji-jianding/methods.html"
+   },
+   {
+      "description" : "围绕相同字、起收笔、转折、连笔和重复特征进行内容整理。",
+      "keywords" : "笔迹鉴定 真假分析",
+      "title" : "真假分析文章",
+      "url" : "category/biji-jianding/authenticity.html"
+   },
+   {
+      "description" : "介绍长期书写习惯、自然变化和稳定特征的观察方式。",
+      "keywords" : "笔迹鉴定 形成规律",
+      "title" : "形成规律文章",
+      "url" : "category/biji-jianding/formation.html"
+   },
+   {
+      "description" : "说明原件、扫描件、手机照片以及不同时期样本的准备标准。",
+      "keywords" : "笔迹鉴定 样本要求",
+      "title" : "样本要求文章",
+      "url" : "category/biji-jianding/samples.html"
+   },
+   {
+      "description" : "整理分析范围、样本数量、材料清晰度和交付要求等影响因素。",
+      "keywords" : "笔迹鉴定 费用与周期",
+      "title" : "费用与周期文章",
+      "url" : "category/biji-jianding/price.html"
+   },
+   {
+      "description" : "线上提交手写资料时，完整页、细节图和补充样本采用统一命名方式，避免多页文件顺序混乱。",
+      "keywords" : "服务动态 线上手写资料命名规则完成更新",
+      "title" : "线上手写资料命名规则调整说明",
+      "url" : "article/news/online-material-naming-update.html"
+   },
+   {
+      "description" : "案例展示页面增加需求、样本、处理过程和结果说明，让不同案例的参考信息更完整。",
+      "keywords" : "服务动态 案例展示内容整理流程调整说明",
+      "title" : "案例展示页面改版：增加材料与过程说明",
+      "url" : "article/news/case-display-process-update.html"
+   },
+   {
+      "description" : "扫描手写文件时怎样选择分辨率、颜色模式和文件格式，并检查浅色笔画、裁边和压缩问题。",
+      "keywords" : "资料指南 手写文件扫描分辨率与清晰度设置指南",
+      "title" : "手写文件扫描分辨率怎样设置？",
+      "url" : "article/news/scan-resolution-guide.html"
+   },
+   {
+      "description" : "多份手写样本可以先按签字、正文和批注分类，再按时间、使用场景和文件载体建立清单。",
+      "keywords" : "资料指南 多份手写样本如何分类整理",
+      "title" : "多份手写样本怎样分类整理？",
+      "url" : "article/news/handwriting-sample-sorting-guide.html"
+   },
+   {
+      "description" : "选择签字样本时，应优先保留多份自然签写，分开正式版与简写版，并拍摄完整页面和清晰细节。",
+      "keywords" : "资料指南 签字样本选择与拍摄注意事项",
+      "title" : "签字样本怎样选择和拍摄？",
+      "url" : "article/news/signature-sample-selection-guide.html"
+   },
+   {
+      "description" : "JPG、PNG和PDF适合不同的手写文件用途，原始照片、透明图和多页浏览文件应分别保存。",
+      "keywords" : "资料指南 手写文件常用图片与文件格式说明",
+      "title" : "JPG、PNG与PDF怎样保存手写文件？",
+      "url" : "article/news/handwritten-document-file-format.html"
+   },
+   {
+      "description" : "自然书写并非匀速完成，可从连续文字、行距、字距、停顿位置和页面空间观察书写节奏。",
+      "keywords" : "专题内容 自然书写节奏与行距变化专题",
+      "title" : "自然书写节奏与行距变化分析",
+      "url" : "article/news/natural-writing-rhythm-topic.html"
+   },
+   {
+      "description" : "观察老年书写样本应建立时间线，并结合书写场景、工具和材料清晰度区分阶段变化与长期习惯。",
+      "keywords" : "专题内容 老年书写样本阶段变化观察专题",
+      "title" : "老年书写样本的阶段变化怎样观察？",
+      "url" : "article/news/senior-handwriting-observation-topic.html"
+   },
+   {
+      "description" : "分析商务签字时，应先看宽高比例、倾斜方向和主要连接路线，再比较正式与日常场景中的自然变化。",
+      "keywords" : "专题内容 商务签字整体结构专题整理",
+      "title" : "商务签字的整体结构怎样分析？",
+      "url" : "article/news/business-signature-structure-topic.html"
+   },
+   {
+      "description" : "个人手写字体字稿可以先测试少量字符，再按模板分批采集，并记录工具、日期、版本和补字情况。",
+      "keywords" : "专题内容 个人手写字体字稿采集专题",
+      "title" : "个人手写字体字稿怎样分批采集？",
+      "url" : "article/news/personal-font-collection-topic.html"
+   },
+   {
+      "description" : "深圳站调整线上手写材料提交方式，手机原图、完整页、细节图和PDF文件需要分开编号保存。",
+      "keywords" : "城市资讯 深圳站数字化手写材料整理说明上线",
+      "title" : "深圳站线上手写材料提交方式调整",
+      "url" : "article/city/shenzhen-digital-material-news.html"
+   },
+   {
+      "description" : "北京站说明商务文件、签字页、会议批注和自然书写样本的分类、编号与时间记录方法。",
+      "keywords" : "城市资讯 北京站商务手写材料分类指南发布",
+      "title" : "北京站商务手写材料分类说明",
+      "url" : "article/city/beijing-material-service-news.html"
+   },
+   {
+      "description" : "广州站补充签字样本准备说明，商务签字、日常签名、简写版和完整版本需要分组整理。",
+      "keywords" : "城市资讯 广州站签字样本整理内容更新",
+      "title" : "广州站签字样本准备说明",
+      "url" : "article/city/guangzhou-signature-service-news.html"
+   },
+   {
+      "description" : "杭州站整理个人手写字体资料清单，包括测试字稿、常用字符、数字标点、模板版本和补字记录。",
+      "keywords" : "城市资讯 杭州站个人手写字体资料清单发布",
+      "title" : "杭州站个人手写字体资料准备清单",
+      "url" : "article/city/hangzhou-font-service-news.html"
+   },
+   {
+      "description" : "发布网站功能、资料接收、案例展示和服务内容调整。",
+      "keywords" : "资讯分类 服务动态",
+      "title" : "服务动态资讯",
+      "url" : "news/service.html"
+   },
+   {
+      "description" : "整理手写样本拍摄、扫描、分类、命名和文件格式方法。",
+      "keywords" : "资讯分类 资料指南",
+      "title" : "资料指南资讯",
+      "url" : "news/guides.html"
+   },
+   {
+      "description" : "围绕自然书写、学生与老年笔迹、商务签字和个人字体开展专题整理。",
+      "keywords" : "资讯分类 专题内容",
+      "title" : "专题内容资讯",
+      "url" : "news/topics.html"
+   },
+   {
+      "description" : "更新不同城市的资料准备重点、内容入口与本地服务说明。",
+      "keywords" : "资讯分类 城市资讯",
+      "title" : "城市资讯资讯",
+      "url" : "news/city.html"
+   },
+   {
+      "description" : "说明自然手写样本、目标文字、页面版式与完成时间怎样准备，重点补充商务文件、费用评估与页面版式确认。",
+      "keywords" : "上海模仿笔迹 上海模仿笔迹费用因素 上海模仿签名样本要求 上海手写文件版式处理 上海笔迹鉴定材料清单",
+      "title" : "上海模仿笔迹：样本要求、手写文件与费用因素",
+      "url" : "city/shanghai/mofang-biji.html"
+   },
+   {
+      "description" : "说明自然签字样本、签名版本、整体结构和提交方式，重点补充商务文件、费用评估与页面版式确认。",
+      "keywords" : "上海模仿签名 上海模仿笔迹费用因素 上海模仿签名样本要求 上海手写文件版式处理 上海笔迹鉴定材料清单",
+      "title" : "上海模仿签名：签字样本、结构观察与常见问题",
+      "url" : "city/shanghai/mofang-qianming.html"
+   },
+   {
+      "description" : "说明待分析文件、自然对比样本、形成时间和图片清晰度要求，重点补充商务文件、费用评估与页面版式确认。",
+      "keywords" : "上海笔迹鉴定 上海模仿笔迹费用因素 上海模仿签名样本要求 上海手写文件版式处理 上海笔迹鉴定材料清单",
+      "title" : "上海笔迹鉴定：对比样本、材料整理与笔迹分析",
+      "url" : "city/shanghai/biji-jianding.html"
+   },
+   {
+      "description" : "说明固定手写文件与个人字体的区别、测试字稿和字符采集方法，重点补充商务文件、费用评估与页面版式确认。",
+      "keywords" : "上海手写字体 上海模仿笔迹费用因素 上海模仿签名样本要求 上海手写文件版式处理 上海笔迹鉴定材料清单",
+      "title" : "上海手写字体：字稿采集、字符范围与文件制作",
+      "url" : "city/shanghai/shouxie-ziti.html"
+   },
+   {
+      "description" : "说明自然手写样本、目标文字、页面版式与完成时间怎样准备，重点补充办公文件、会议批注与跨年份签字样本。",
+      "keywords" : "北京模仿笔迹 北京模仿笔迹样本怎么选 北京模仿签名需要几份样本 北京手写文件如何整理 北京笔迹分析材料要求",
+      "title" : "北京模仿笔迹：样本要求、手写文件与费用因素",
+      "url" : "city/beijing/mofang-biji.html"
+   },
+   {
+      "description" : "说明自然签字样本、签名版本、整体结构和提交方式，重点补充办公文件、会议批注与跨年份签字样本。",
+      "keywords" : "北京模仿签名 北京模仿笔迹样本怎么选 北京模仿签名需要几份样本 北京手写文件如何整理 北京笔迹分析材料要求",
+      "title" : "北京模仿签名：签字样本、结构观察与常见问题",
+      "url" : "city/beijing/mofang-qianming.html"
+   },
+   {
+      "description" : "说明待分析文件、自然对比样本、形成时间和图片清晰度要求，重点补充办公文件、会议批注与跨年份签字样本。",
+      "keywords" : "北京笔迹鉴定 北京模仿笔迹样本怎么选 北京模仿签名需要几份样本 北京手写文件如何整理 北京笔迹分析材料要求",
+      "title" : "北京笔迹鉴定：对比样本、材料整理与笔迹分析",
+      "url" : "city/beijing/biji-jianding.html"
+   },
+   {
+      "description" : "说明固定手写文件与个人字体的区别、测试字稿和字符采集方法，重点补充办公文件、会议批注与跨年份签字样本。",
+      "keywords" : "北京手写字体 北京模仿笔迹样本怎么选 北京模仿签名需要几份样本 北京手写文件如何整理 北京笔迹分析材料要求",
+      "title" : "北京手写字体：字稿采集、字符范围与文件制作",
+      "url" : "city/beijing/shouxie-ziti.html"
+   },
+   {
+      "description" : "说明自然手写样本、目标文字、页面版式与完成时间怎样准备，重点补充商务往来文件与中英文签字样本。",
+      "keywords" : "广州模仿笔迹 广州中英文模仿签名 广州商务签字样本整理 广州模仿笔迹材料要求 广州手写文件数字混排",
+      "title" : "广州模仿笔迹：样本要求、手写文件与费用因素",
+      "url" : "city/guangzhou/mofang-biji.html"
+   },
+   {
+      "description" : "说明自然签字样本、签名版本、整体结构和提交方式，重点补充商务往来文件与中英文签字样本。",
+      "keywords" : "广州模仿签名 广州中英文模仿签名 广州商务签字样本整理 广州模仿笔迹材料要求 广州手写文件数字混排",
+      "title" : "广州模仿签名：签字样本、结构观察与常见问题",
+      "url" : "city/guangzhou/mofang-qianming.html"
+   },
+   {
+      "description" : "说明待分析文件、自然对比样本、形成时间和图片清晰度要求，重点补充商务往来文件与中英文签字样本。",
+      "keywords" : "广州笔迹鉴定 广州中英文模仿签名 广州商务签字样本整理 广州模仿笔迹材料要求 广州手写文件数字混排",
+      "title" : "广州笔迹鉴定：对比样本、材料整理与笔迹分析",
+      "url" : "city/guangzhou/biji-jianding.html"
+   },
+   {
+      "description" : "说明固定手写文件与个人字体的区别、测试字稿和字符采集方法，重点补充商务往来文件与中英文签字样本。",
+      "keywords" : "广州手写字体 广州中英文模仿签名 广州商务签字样本整理 广州模仿笔迹材料要求 广州手写文件数字混排",
+      "title" : "广州手写字体：字稿采集、字符范围与文件制作",
+      "url" : "city/guangzhou/shouxie-ziti.html"
+   },
+   {
+      "description" : "说明自然手写样本、目标文字、页面版式与完成时间怎样准备，重点补充手机原图、电子文件与线上版本管理。",
+      "keywords" : "深圳模仿笔迹 深圳模仿笔迹手机原图要求 深圳模仿签名线上提交 深圳手写文件电子版格式 深圳笔迹分析照片清晰度",
+      "title" : "深圳模仿笔迹：样本要求、手写文件与费用因素",
+      "url" : "city/shenzhen/mofang-biji.html"
+   },
+   {
+      "description" : "说明自然签字样本、签名版本、整体结构和提交方式，重点补充手机原图、电子文件与线上版本管理。",
+      "keywords" : "深圳模仿签名 深圳模仿笔迹手机原图要求 深圳模仿签名线上提交 深圳手写文件电子版格式 深圳笔迹分析照片清晰度",
+      "title" : "深圳模仿签名：签字样本、结构观察与常见问题",
+      "url" : "city/shenzhen/mofang-qianming.html"
+   },
+   {
+      "description" : "说明待分析文件、自然对比样本、形成时间和图片清晰度要求，重点补充手机原图、电子文件与线上版本管理。",
+      "keywords" : "深圳笔迹鉴定 深圳模仿笔迹手机原图要求 深圳模仿签名线上提交 深圳手写文件电子版格式 深圳笔迹分析照片清晰度",
+      "title" : "深圳笔迹鉴定：对比样本、材料整理与笔迹分析",
+      "url" : "city/shenzhen/biji-jianding.html"
+   },
+   {
+      "description" : "说明固定手写文件与个人字体的区别、测试字稿和字符采集方法，重点补充手机原图、电子文件与线上版本管理。",
+      "keywords" : "深圳手写字体 深圳模仿笔迹手机原图要求 深圳模仿签名线上提交 深圳手写文件电子版格式 深圳笔迹分析照片清晰度",
+      "title" : "深圳手写字体：字稿采集、字符范围与文件制作",
+      "url" : "city/shenzhen/shouxie-ziti.html"
+   },
+   {
+      "description" : "说明自然手写样本、目标文字、页面版式与完成时间怎样准备，重点补充个人手写字体、测试字稿与字符补录。",
+      "keywords" : "杭州模仿笔迹 杭州个人手写字体制作 杭州手写字稿采集要求 杭州模仿笔迹测试样本 杭州签名字体数字化",
+      "title" : "杭州模仿笔迹：样本要求、手写文件与费用因素",
+      "url" : "city/hangzhou/mofang-biji.html"
+   },
+   {
+      "description" : "说明自然签字样本、签名版本、整体结构和提交方式，重点补充个人手写字体、测试字稿与字符补录。",
+      "keywords" : "杭州模仿签名 杭州个人手写字体制作 杭州手写字稿采集要求 杭州模仿笔迹测试样本 杭州签名字体数字化",
+      "title" : "杭州模仿签名：签字样本、结构观察与常见问题",
+      "url" : "city/hangzhou/mofang-qianming.html"
+   },
+   {
+      "description" : "说明待分析文件、自然对比样本、形成时间和图片清晰度要求，重点补充个人手写字体、测试字稿与字符补录。",
+      "keywords" : "杭州笔迹鉴定 杭州个人手写字体制作 杭州手写字稿采集要求 杭州模仿笔迹测试样本 杭州签名字体数字化",
+      "title" : "杭州笔迹鉴定：对比样本、材料整理与笔迹分析",
+      "url" : "city/hangzhou/biji-jianding.html"
+   },
+   {
+      "description" : "说明固定手写文件与个人字体的区别、测试字稿和字符采集方法，重点补充个人手写字体、测试字稿与字符补录。",
+      "keywords" : "杭州手写字体 杭州个人手写字体制作 杭州手写字稿采集要求 杭州模仿笔迹测试样本 杭州签名字体数字化",
+      "title" : "杭州手写字体：字稿采集、字符范围与文件制作",
+      "url" : "city/hangzhou/shouxie-ziti.html"
+   },
+   {
+      "description" : "说明自然手写样本、目标文字、页面版式与完成时间怎样准备，重点补充历史文件、扫描材料与时间阶段对照。",
+      "keywords" : "南京模仿笔迹 南京旧文件笔迹分析 南京模仿笔迹年代样本 南京签字扫描件要求 南京手写档案整理",
+      "title" : "南京模仿笔迹：样本要求、手写文件与费用因素",
+      "url" : "city/nanjing/mofang-biji.html"
+   },
+   {
+      "description" : "说明自然签字样本、签名版本、整体结构和提交方式，重点补充历史文件、扫描材料与时间阶段对照。",
+      "keywords" : "南京模仿签名 南京旧文件笔迹分析 南京模仿笔迹年代样本 南京签字扫描件要求 南京手写档案整理",
+      "title" : "南京模仿签名：签字样本、结构观察与常见问题",
+      "url" : "city/nanjing/mofang-qianming.html"
+   },
+   {
+      "description" : "说明待分析文件、自然对比样本、形成时间和图片清晰度要求，重点补充历史文件、扫描材料与时间阶段对照。",
+      "keywords" : "南京笔迹鉴定 南京旧文件笔迹分析 南京模仿笔迹年代样本 南京签字扫描件要求 南京手写档案整理",
+      "title" : "南京笔迹鉴定：对比样本、材料整理与笔迹分析",
+      "url" : "city/nanjing/biji-jianding.html"
+   },
+   {
+      "description" : "说明固定手写文件与个人字体的区别、测试字稿和字符采集方法，重点补充历史文件、扫描材料与时间阶段对照。",
+      "keywords" : "南京手写字体 南京旧文件笔迹分析 南京模仿笔迹年代样本 南京签字扫描件要求 南京手写档案整理",
+      "title" : "南京手写字体：字稿采集、字符范围与文件制作",
+      "url" : "city/nanjing/shouxie-ziti.html"
+   },
+   {
+      "description" : "说明自然手写样本、目标文字、页面版式与完成时间怎样准备，重点补充自然笔记、书写速度与重复字变化。",
+      "keywords" : "成都模仿笔迹 成都自然手写笔迹样本 成都模仿笔迹重复字分析 成都模仿签名练习方法 成都手写笔记整理",
+      "title" : "成都模仿笔迹：样本要求、手写文件与费用因素",
+      "url" : "city/chengdu/mofang-biji.html"
+   },
+   {
+      "description" : "说明自然签字样本、签名版本、整体结构和提交方式，重点补充自然笔记、书写速度与重复字变化。",
+      "keywords" : "成都模仿签名 成都自然手写笔迹样本 成都模仿笔迹重复字分析 成都模仿签名练习方法 成都手写笔记整理",
+      "title" : "成都模仿签名：签字样本、结构观察与常见问题",
+      "url" : "city/chengdu/mofang-qianming.html"
+   },
+   {
+      "description" : "说明待分析文件、自然对比样本、形成时间和图片清晰度要求，重点补充自然笔记、书写速度与重复字变化。",
+      "keywords" : "成都笔迹鉴定 成都自然手写笔迹样本 成都模仿笔迹重复字分析 成都模仿签名练习方法 成都手写笔记整理",
+      "title" : "成都笔迹鉴定：对比样本、材料整理与笔迹分析",
+      "url" : "city/chengdu/biji-jianding.html"
+   },
+   {
+      "description" : "说明固定手写文件与个人字体的区别、测试字稿和字符采集方法，重点补充自然笔记、书写速度与重复字变化。",
+      "keywords" : "成都手写字体 成都自然手写笔迹样本 成都模仿笔迹重复字分析 成都模仿签名练习方法 成都手写笔记整理",
+      "title" : "成都手写字体：字稿采集、字符范围与文件制作",
+      "url" : "city/chengdu/shouxie-ziti.html"
+   },
+   {
+      "description" : "说明自然手写样本、目标文字、页面版式与完成时间怎样准备，重点补充多页文件、表格填写与页码版本核对。",
+      "keywords" : "武汉模仿笔迹 武汉多页手写文件价格因素 武汉模仿笔迹表格填写 武汉模仿签名页码整理 武汉笔迹样本版本管理",
+      "title" : "武汉模仿笔迹：样本要求、手写文件与费用因素",
+      "url" : "city/wuhan/mofang-biji.html"
+   },
+   {
+      "description" : "说明自然签字样本、签名版本、整体结构和提交方式，重点补充多页文件、表格填写与页码版本核对。",
+      "keywords" : "武汉模仿签名 武汉多页手写文件价格因素 武汉模仿笔迹表格填写 武汉模仿签名页码整理 武汉笔迹样本版本管理",
+      "title" : "武汉模仿签名：签字样本、结构观察与常见问题",
+      "url" : "city/wuhan/mofang-qianming.html"
+   },
+   {
+      "description" : "说明待分析文件、自然对比样本、形成时间和图片清晰度要求，重点补充多页文件、表格填写与页码版本核对。",
+      "keywords" : "武汉笔迹鉴定 武汉多页手写文件价格因素 武汉模仿笔迹表格填写 武汉模仿签名页码整理 武汉笔迹样本版本管理",
+      "title" : "武汉笔迹鉴定：对比样本、材料整理与笔迹分析",
+      "url" : "city/wuhan/biji-jianding.html"
+   },
+   {
+      "description" : "说明固定手写文件与个人字体的区别、测试字稿和字符采集方法，重点补充多页文件、表格填写与页码版本核对。",
+      "keywords" : "武汉手写字体 武汉多页手写文件价格因素 武汉模仿笔迹表格填写 武汉模仿签名页码整理 武汉笔迹样本版本管理",
+      "title" : "武汉手写字体：字稿采集、字符范围与文件制作",
+      "url" : "city/wuhan/shouxie-ziti.html"
+   },
+   {
+      "description" : "说明自然手写样本、目标文字、页面版式与完成时间怎样准备，重点补充异地拍摄、分批提交与页面透视校正。",
+      "keywords" : "重庆模仿笔迹 重庆模仿笔迹远程提交 重庆手写文件拍摄方法 重庆模仿签名原图要求 重庆笔迹样本分批编号",
+      "title" : "重庆模仿笔迹：样本要求、手写文件与费用因素",
+      "url" : "city/chongqing/mofang-biji.html"
+   },
+   {
+      "description" : "说明自然签字样本、签名版本、整体结构和提交方式，重点补充异地拍摄、分批提交与页面透视校正。",
+      "keywords" : "重庆模仿签名 重庆模仿笔迹远程提交 重庆手写文件拍摄方法 重庆模仿签名原图要求 重庆笔迹样本分批编号",
+      "title" : "重庆模仿签名：签字样本、结构观察与常见问题",
+      "url" : "city/chongqing/mofang-qianming.html"
+   },
+   {
+      "description" : "说明待分析文件、自然对比样本、形成时间和图片清晰度要求，重点补充异地拍摄、分批提交与页面透视校正。",
+      "keywords" : "重庆笔迹鉴定 重庆模仿笔迹远程提交 重庆手写文件拍摄方法 重庆模仿签名原图要求 重庆笔迹样本分批编号",
+      "title" : "重庆笔迹鉴定：对比样本、材料整理与笔迹分析",
+      "url" : "city/chongqing/biji-jianding.html"
+   },
+   {
+      "description" : "说明固定手写文件与个人字体的区别、测试字稿和字符采集方法，重点补充异地拍摄、分批提交与页面透视校正。",
+      "keywords" : "重庆手写字体 重庆模仿笔迹远程提交 重庆手写文件拍摄方法 重庆模仿签名原图要求 重庆笔迹样本分批编号",
+      "title" : "重庆手写字体：字稿采集、字符范围与文件制作",
+      "url" : "city/chongqing/shouxie-ziti.html"
+   },
+   {
+      "description" : "说明自然手写样本、目标文字、页面版式与完成时间怎样准备，重点补充短签名、商务签字与自然变化范围。",
+      "keywords" : "苏州模仿笔迹 苏州短签名样本要求 苏州商务模仿签名 苏州模仿笔迹自然变化 苏州签字照片怎么拍",
+      "title" : "苏州模仿笔迹：样本要求、手写文件与费用因素",
+      "url" : "city/suzhou/mofang-biji.html"
+   },
+   {
+      "description" : "说明自然签字样本、签名版本、整体结构和提交方式，重点补充短签名、商务签字与自然变化范围。",
+      "keywords" : "苏州模仿签名 苏州短签名样本要求 苏州商务模仿签名 苏州模仿笔迹自然变化 苏州签字照片怎么拍",
+      "title" : "苏州模仿签名：签字样本、结构观察与常见问题",
+      "url" : "city/suzhou/mofang-qianming.html"
+   },
+   {
+      "description" : "说明待分析文件、自然对比样本、形成时间和图片清晰度要求，重点补充短签名、商务签字与自然变化范围。",
+      "keywords" : "苏州笔迹鉴定 苏州短签名样本要求 苏州商务模仿签名 苏州模仿笔迹自然变化 苏州签字照片怎么拍",
+      "title" : "苏州笔迹鉴定：对比样本、材料整理与笔迹分析",
+      "url" : "city/suzhou/biji-jianding.html"
+   },
+   {
+      "description" : "说明固定手写文件与个人字体的区别、测试字稿和字符采集方法，重点补充短签名、商务签字与自然变化范围。",
+      "keywords" : "苏州手写字体 苏州短签名样本要求 苏州商务模仿签名 苏州模仿笔迹自然变化 苏州签字照片怎么拍",
+      "title" : "苏州手写字体：字稿采集、字符范围与文件制作",
+      "url" : "city/suzhou/shouxie-ziti.html"
+   },
+   {
+      "description" : "说明自然手写样本、目标文字、页面版式与完成时间怎样准备，重点补充合同签字、票据批注与材料载体标记。",
+      "keywords" : "天津模仿笔迹 天津合同模仿签名样本 天津票据手写批注整理 天津模仿笔迹原件要求 天津笔迹分析材料目录",
+      "title" : "天津模仿笔迹：样本要求、手写文件与费用因素",
+      "url" : "city/tianjin/mofang-biji.html"
+   },
+   {
+      "description" : "说明自然签字样本、签名版本、整体结构和提交方式，重点补充合同签字、票据批注与材料载体标记。",
+      "keywords" : "天津模仿签名 天津合同模仿签名样本 天津票据手写批注整理 天津模仿笔迹原件要求 天津笔迹分析材料目录",
+      "title" : "天津模仿签名：签字样本、结构观察与常见问题",
+      "url" : "city/tianjin/mofang-qianming.html"
+   },
+   {
+      "description" : "说明待分析文件、自然对比样本、形成时间和图片清晰度要求，重点补充合同签字、票据批注与材料载体标记。",
+      "keywords" : "天津笔迹鉴定 天津合同模仿签名样本 天津票据手写批注整理 天津模仿笔迹原件要求 天津笔迹分析材料目录",
+      "title" : "天津笔迹鉴定：对比样本、材料整理与笔迹分析",
+      "url" : "city/tianjin/biji-jianding.html"
+   },
+   {
+      "description" : "说明固定手写文件与个人字体的区别、测试字稿和字符采集方法，重点补充合同签字、票据批注与材料载体标记。",
+      "keywords" : "天津手写字体 天津合同模仿签名样本 天津票据手写批注整理 天津模仿笔迹原件要求 天津笔迹分析材料目录",
+      "title" : "天津手写字体：字稿采集、字符范围与文件制作",
+      "url" : "city/tianjin/shouxie-ziti.html"
+   },
+   {
+      "description" : "说明自然手写样本、目标文字、页面版式与完成时间怎样准备，重点补充档案来源、自然笔迹记录与原图保存。",
+      "keywords" : "西安模仿笔迹 西安档案笔迹分析 西安模仿笔迹原图保存 西安旧签字样本整理 西安手写文件来源记录",
+      "title" : "西安模仿笔迹：样本要求、手写文件与费用因素",
+      "url" : "city/xian/mofang-biji.html"
+   },
+   {
+      "description" : "说明自然签字样本、签名版本、整体结构和提交方式，重点补充档案来源、自然笔迹记录与原图保存。",
+      "keywords" : "西安模仿签名 西安档案笔迹分析 西安模仿笔迹原图保存 西安旧签字样本整理 西安手写文件来源记录",
+      "title" : "西安模仿签名：签字样本、结构观察与常见问题",
+      "url" : "city/xian/mofang-qianming.html"
+   },
+   {
+      "description" : "说明待分析文件、自然对比样本、形成时间和图片清晰度要求，重点补充档案来源、自然笔迹记录与原图保存。",
+      "keywords" : "西安笔迹鉴定 西安档案笔迹分析 西安模仿笔迹原图保存 西安旧签字样本整理 西安手写文件来源记录",
+      "title" : "西安笔迹鉴定：对比样本、材料整理与笔迹分析",
+      "url" : "city/xian/biji-jianding.html"
+   },
+   {
+      "description" : "说明固定手写文件与个人字体的区别、测试字稿和字符采集方法，重点补充档案来源、自然笔迹记录与原图保存。",
+      "keywords" : "西安手写字体 西安档案笔迹分析 西安模仿笔迹原图保存 西安旧签字样本整理 西安手写文件来源记录",
+      "title" : "西安手写字体：字稿采集、字符范围与文件制作",
+      "url" : "city/xian/shouxie-ziti.html"
+   },
+   {
+      "description" : "了解模仿笔迹网的网站定位、服务范围、内容维护方式和咨询流程。",
+      "keywords" : "关于我们 网站定位 服务栏目",
+      "title" : "关于模仿笔迹网",
+      "url" : "about/index.html"
+   },
+   {
+      "description" : "上海分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。",
+      "keywords" : "上海模仿笔迹 上海模仿签名 上海模仿签字 上海笔迹鉴定",
+      "title" : "上海模仿笔迹与模仿签名怎么准备样本？手写文件整理要点",
+      "url" : "city/shanghai/shanghai-mofang-biji-signature-samples.html"
+   },
+   {
+      "description" : "北京分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。",
+      "keywords" : "北京模仿笔迹 北京模仿签名 北京模仿签字 北京笔迹鉴定",
+      "title" : "北京模仿签名与模仿笔迹资料怎么整理？样本分类指南",
+      "url" : "city/beijing/beijing-mofang-qianming-biji-guide.html"
+   },
+   {
+      "description" : "广州分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。",
+      "keywords" : "广州模仿笔迹 广州模仿签名 广州模仿签字 广州笔迹鉴定",
+      "title" : "广州模仿签名需要哪些样本？模仿签字资料整理方法",
+      "url" : "city/guangzhou/guangzhou-mofang-qianming-sample-guide.html"
+   },
+   {
+      "description" : "深圳分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。",
+      "keywords" : "深圳模仿笔迹 深圳模仿签名 深圳模仿签字 深圳笔迹鉴定",
+      "title" : "深圳模仿笔迹资料如何线上提交？模仿签名文件整理指南",
+      "url" : "city/shenzhen/shenzhen-mofang-biji-digital-files.html"
+   },
+   {
+      "description" : "杭州分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。",
+      "keywords" : "杭州模仿笔迹 杭州模仿签名 杭州模仿签字 杭州笔迹鉴定",
+      "title" : "杭州模仿笔迹与手写字体资料怎么准备？签名样本要点",
+      "url" : "city/hangzhou/hangzhou-mofang-biji-font-samples.html"
+   },
+   {
+      "description" : "南京分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。",
+      "keywords" : "南京模仿笔迹 南京模仿签名 南京模仿签字 南京笔迹鉴定",
+      "title" : "南京笔迹鉴定需要哪些对比样本？模仿笔迹观察要点",
+      "url" : "city/nanjing/nanjing-biji-jianding-comparison-samples.html"
+   },
+   {
+      "description" : "成都分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。",
+      "keywords" : "成都模仿笔迹 成都模仿签名 成都模仿签字 成都笔迹鉴定",
+      "title" : "成都模仿笔迹怎样说明页面要求？模仿签字样本准备",
+      "url" : "city/chengdu/chengdu-mofang-biji-page-layout.html"
+   },
+   {
+      "description" : "武汉分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。",
+      "keywords" : "武汉模仿笔迹 武汉模仿签名 武汉模仿签字 武汉笔迹鉴定",
+      "title" : "武汉模仿签名为什么要看自然书写？模仿签字观察说明",
+      "url" : "city/wuhan/wuhan-mofang-qianming-writing-rhythm.html"
+   },
+   {
+      "description" : "重庆分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。",
+      "keywords" : "重庆模仿笔迹 重庆模仿签名 重庆模仿签字 重庆笔迹鉴定",
+      "title" : "重庆模仿笔迹照片怎么拍清楚？签名与笔迹鉴定扫描建议",
+      "url" : "city/chongqing/chongqing-mofang-biji-photo-scan.html"
+   },
+   {
+      "description" : "苏州分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。",
+      "keywords" : "苏州模仿笔迹 苏州模仿签名 苏州模仿签字 苏州笔迹鉴定",
+      "title" : "苏州模仿签名商务文件如何整理？模仿签字资料清单",
+      "url" : "city/suzhou/suzhou-mofang-qianming-business-files.html"
+   },
+   {
+      "description" : "天津分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。",
+      "keywords" : "天津模仿笔迹 天津模仿签名 天津模仿签字 天津笔迹鉴定",
+      "title" : "天津模仿笔迹跨时期样本怎么选？签名与鉴定资料说明",
+      "url" : "city/tianjin/tianjin-mofang-biji-multi-period-samples.html"
+   },
+   {
+      "description" : "西安分站新文章，说明手写样本选择、文件整理与笔迹资料准备方法。",
+      "keywords" : "西安模仿笔迹 西安模仿签名 西安模仿签字 西安笔迹鉴定",
+      "title" : "西安笔迹鉴定原件与复印件怎么准备？模仿笔迹要点",
+      "url" : "city/xian/xian-biji-jianding-original-copy.html"
+   },
+   {
+      "description" : "模仿笔迹样本选择指南，介绍自然手写材料、整页照片、重复字、书写时间和目标文字的整理方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 模仿笔迹",
+      "title" : "模仿笔迹怎样选择自然手写样本？从整页文字到细节照片",
+      "url" : "article/mofang-biji/natural-handwriting-sample-selection.html"
+   },
+   {
+      "description" : "说明模仿签名、模仿签字样本的分类方式，比较正式签名、快速签字、简写版本与多时期材料。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 模仿签名",
+      "title" : "模仿签名与模仿签字样本怎么分类？正式签名和快速签字的区别",
+      "url" : "article/mofang-qianming/signature-versions-and-sample-sorting.html"
+   },
+   {
+      "description" : "笔迹鉴定材料准备说明，介绍待分析文件、自然对比样本、原件、扫描件、相同字和形成时间的整理方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 笔迹鉴定",
+      "title" : "笔迹鉴定对比材料怎么准备？原件、扫描件与自然样本说明",
+      "url" : "article/biji-jianding/original-scan-comparison-materials.html"
+   },
+   {
+      "description" : "长篇模仿笔迹怎样保持自然？字距、行距与书写节奏分析，围绕模仿笔迹、模仿签名、模仿签字与笔迹鉴定说明自然样本和文件整理方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 模仿笔迹",
+      "title" : "长篇模仿笔迹怎样保持自然？字距、行距与书写节奏分析",
+      "url" : "article/mofang-biji/long-text-style-consistency.html"
+   },
+   {
+      "description" : "模仿笔迹样本里没有相同字怎么办？偏旁与相近结构整理方法，围绕模仿笔迹、模仿签名、模仿签字与笔迹鉴定说明自然样本和文件整理方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 模仿笔迹",
+      "title" : "模仿笔迹样本里没有相同字怎么办？偏旁与相近结构整理方法",
+      "url" : "article/mofang-biji/missing-same-characters-sample.html"
+   },
+   {
+      "description" : "模仿签名怎样选择主要版本？正式签名、简写与快速签字比较，围绕模仿笔迹、模仿签名、模仿签字与笔迹鉴定说明自然样本和文件整理方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 模仿签名",
+      "title" : "模仿签名怎样选择主要版本？正式签名、简写与快速签字比较",
+      "url" : "article/mofang-qianming/formal-short-signature-versions.html"
+   },
+   {
+      "description" : "模仿签字照片怎么选？不同场景、书写工具与纸张的影响，围绕模仿笔迹、模仿签名、模仿签字与笔迹鉴定说明自然样本和文件整理方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 模仿签名",
+      "title" : "模仿签字照片怎么选？不同场景、书写工具与纸张的影响",
+      "url" : "article/mofang-qianming/signature-photo-scene-differences.html"
+   },
+   {
+      "description" : "笔迹鉴定为什么重视同期样本？形成时间与自然变化说明，围绕模仿笔迹、模仿签名、模仿签字与笔迹鉴定说明自然样本和文件整理方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 笔迹鉴定",
+      "title" : "笔迹鉴定为什么重视同期样本？形成时间与自然变化说明",
+      "url" : "article/biji-jianding/same-period-comparison-samples.html"
+   },
+   {
+      "description" : "上海商务签批与日常手写样本怎样分组？模仿笔迹整理方法，围绕上海模仿笔迹、模仿签名、模仿签字和笔迹鉴定介绍资料准备方法。",
+      "keywords" : "上海模仿笔迹 上海模仿签名 上海模仿签字 上海笔迹鉴定",
+      "title" : "上海商务签批与日常手写样本怎样分组？模仿笔迹整理方法",
+      "url" : "city/shanghai/shanghai-business-handwriting-groups.html"
+   },
+   {
+      "description" : "北京多页模仿笔迹资料怎样编号？签名与鉴定文件清单，围绕北京模仿笔迹、模仿签名、模仿签字和笔迹鉴定介绍资料准备方法。",
+      "keywords" : "北京模仿笔迹 北京模仿签名 北京模仿签字 北京笔迹鉴定",
+      "title" : "北京多页模仿笔迹资料怎样编号？签名与鉴定文件清单",
+      "url" : "city/beijing/beijing-multipage-file-numbering.html"
+   },
+   {
+      "description" : "广州模仿签名样本怎样按场景选择？模仿签字版本说明，围绕广州模仿笔迹、模仿签名、模仿签字和笔迹鉴定介绍资料准备方法。",
+      "keywords" : "广州模仿笔迹 广州模仿签名 广州模仿签字 广州笔迹鉴定",
+      "title" : "广州模仿签名样本怎样按场景选择？模仿签字版本说明",
+      "url" : "city/guangzhou/guangzhou-signature-scene-selection.html"
+   },
+   {
+      "description" : "深圳模仿笔迹线上资料怎么保存？手机原图与PDF整理方法，围绕深圳模仿笔迹、模仿签名、模仿签字和笔迹鉴定介绍资料准备方法。",
+      "keywords" : "深圳模仿笔迹 深圳模仿签名 深圳模仿签字 深圳笔迹鉴定",
+      "title" : "深圳模仿笔迹线上资料怎么保存？手机原图与PDF整理方法",
+      "url" : "city/shenzhen/shenzhen-original-photo-pdf-sorting.html"
+   },
+   {
+      "description" : "杭州手写文案版式如何说明？模仿笔迹行数与落款整理，围绕杭州模仿笔迹、模仿签名、模仿签字和笔迹鉴定介绍资料准备方法。",
+      "keywords" : "杭州模仿笔迹 杭州模仿签名 杭州模仿签字 杭州笔迹鉴定",
+      "title" : "杭州手写文案版式如何说明？模仿笔迹行数与落款整理",
+      "url" : "city/hangzhou/hangzhou-handwritten-copy-layout.html"
+   },
+   {
+      "description" : "南京笔迹鉴定同期样本怎么找？模仿笔迹对比资料说明，围绕南京模仿笔迹、模仿签名、模仿签字和笔迹鉴定介绍资料准备方法。",
+      "keywords" : "南京模仿笔迹 南京模仿签名 南京模仿签字 南京笔迹鉴定",
+      "title" : "南京笔迹鉴定同期样本怎么找？模仿笔迹对比资料说明",
+      "url" : "city/nanjing/nanjing-same-period-identification.html"
+   },
+   {
+      "description" : "成都长篇模仿笔迹怎样确定行距？整页手写内容准备，围绕成都模仿笔迹、模仿签名、模仿签字和笔迹鉴定介绍资料准备方法。",
+      "keywords" : "成都模仿笔迹 成都模仿签名 成都模仿签字 成都笔迹鉴定",
+      "title" : "成都长篇模仿笔迹怎样确定行距？整页手写内容准备",
+      "url" : "city/chengdu/chengdu-long-handwriting-line-spacing.html"
+   },
+   {
+      "description" : "武汉模仿签字多个版本怎么选？正式签名与快速签写比较，围绕武汉模仿笔迹、模仿签名、模仿签字和笔迹鉴定介绍资料准备方法。",
+      "keywords" : "武汉模仿笔迹 武汉模仿签名 武汉模仿签字 武汉笔迹鉴定",
+      "title" : "武汉模仿签字多个版本怎么选？正式签名与快速签写比较",
+      "url" : "city/wuhan/wuhan-signature-version-comparison.html"
+   },
+   {
+      "description" : "重庆弯曲纸张上的笔迹怎么拍？模仿签名与鉴定照片建议，围绕重庆模仿笔迹、模仿签名、模仿签字和笔迹鉴定介绍资料准备方法。",
+      "keywords" : "重庆模仿笔迹 重庆模仿签名 重庆模仿签字 重庆笔迹鉴定",
+      "title" : "重庆弯曲纸张上的笔迹怎么拍？模仿签名与鉴定照片建议",
+      "url" : "city/chongqing/chongqing-curved-paper-photo.html"
+   },
+   {
+      "description" : "苏州商务签字中的日期和短句怎么整理？模仿签名资料说明，围绕苏州模仿笔迹、模仿签名、模仿签字和笔迹鉴定介绍资料准备方法。",
+      "keywords" : "苏州模仿笔迹 苏州模仿签名 苏州模仿签字 苏州笔迹鉴定",
+      "title" : "苏州商务签字中的日期和短句怎么整理？模仿签名资料说明",
+      "url" : "city/suzhou/suzhou-signature-date-short-text.html"
+   },
+   {
+      "description" : "天津模仿笔迹中的数字与日期怎么准备？签字样本要点，围绕天津模仿笔迹、模仿签名、模仿签字和笔迹鉴定介绍资料准备方法。",
+      "keywords" : "天津模仿笔迹 天津模仿签名 天津模仿签字 天津笔迹鉴定",
+      "title" : "天津模仿笔迹中的数字与日期怎么准备？签字样本要点",
+      "url" : "city/tianjin/tianjin-numbers-dates-samples.html"
+   },
+   {
+      "description" : "西安笔迹鉴定扫描用彩色还是灰度？模仿笔迹图片保存说明，围绕西安模仿笔迹、模仿签名、模仿签字和笔迹鉴定介绍资料准备方法。",
+      "keywords" : "西安模仿笔迹 西安模仿签名 西安模仿签字 西安笔迹鉴定",
+      "title" : "西安笔迹鉴定扫描用彩色还是灰度？模仿笔迹图片保存说明",
+      "url" : "city/xian/xian-scan-color-mode.html"
+   },
+   {
+      "description" : "手写样本完整页与细节图提交方式更新，围绕模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新资料整理说明。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 资讯",
+      "title" : "手写样本完整页与细节图提交方式更新",
+      "url" : "article/news/full-page-detail-image-update.html"
+   },
+   {
+      "description" : "多时期签名与笔迹对比专题内容上线，围绕模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新资料整理说明。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 资讯",
+      "title" : "多时期签名与笔迹对比专题内容上线",
+      "url" : "article/news/multi-period-signature-comparison-topic.html"
+   },
+   {
+      "description" : "上海站手写样本清单新增页码与场景说明，围绕上海模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新服务资料。",
+      "keywords" : "上海模仿笔迹 上海模仿签名 上海模仿签字 上海笔迹鉴定",
+      "title" : "上海站手写样本清单新增页码与场景说明",
+      "url" : "city/shanghai/shanghai-sample-list-update.html"
+   },
+   {
+      "description" : "北京站签名样本新增正式版与简写版分组，围绕北京模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新服务资料。",
+      "keywords" : "北京模仿笔迹 北京模仿签名 北京模仿签字 北京笔迹鉴定",
+      "title" : "北京站签名样本新增正式版与简写版分组",
+      "url" : "city/beijing/beijing-signature-group-update.html"
+   },
+   {
+      "description" : "广州站手机拍摄手写文件补充光线与角度说明，围绕广州模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新服务资料。",
+      "keywords" : "广州模仿笔迹 广州模仿签名 广州模仿签字 广州笔迹鉴定",
+      "title" : "广州站手机拍摄手写文件补充光线与角度说明",
+      "url" : "city/guangzhou/guangzhou-mobile-photo-update.html"
+   },
+   {
+      "description" : "深圳站线上资料新增版本日期与原图标记，围绕深圳模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新服务资料。",
+      "keywords" : "深圳模仿笔迹 深圳模仿签名 深圳模仿签字 深圳笔迹鉴定",
+      "title" : "深圳站线上资料新增版本日期与原图标记",
+      "url" : "city/shenzhen/shenzhen-file-version-update.html"
+   },
+   {
+      "description" : "杭州站手写文案新增版式确认清单，围绕杭州模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新服务资料。",
+      "keywords" : "杭州模仿笔迹 杭州模仿签名 杭州模仿签字 杭州笔迹鉴定",
+      "title" : "杭州站手写文案新增版式确认清单",
+      "url" : "city/hangzhou/hangzhou-layout-check-update.html"
+   },
+   {
+      "description" : "南京站笔迹鉴定资料新增同期样本提示，围绕南京模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新服务资料。",
+      "keywords" : "南京模仿笔迹 南京模仿签名 南京模仿签字 南京笔迹鉴定",
+      "title" : "南京站笔迹鉴定资料新增同期样本提示",
+      "url" : "city/nanjing/nanjing-same-period-update.html"
+   },
+   {
+      "description" : "成都站长篇模仿笔迹新增整页检查步骤，围绕成都模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新服务资料。",
+      "keywords" : "成都模仿笔迹 成都模仿签名 成都模仿签字 成都笔迹鉴定",
+      "title" : "成都站长篇模仿笔迹新增整页检查步骤",
+      "url" : "city/chengdu/chengdu-long-text-check-update.html"
+   },
+   {
+      "description" : "武汉站模仿签字新增主要版本确认项，围绕武汉模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新服务资料。",
+      "keywords" : "武汉模仿笔迹 武汉模仿签名 武汉模仿签字 武汉笔迹鉴定",
+      "title" : "武汉站模仿签字新增主要版本确认项",
+      "url" : "city/wuhan/wuhan-signature-version-update.html"
+   },
+   {
+      "description" : "重庆站曲面文件拍摄新增原图保存说明，围绕重庆模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新服务资料。",
+      "keywords" : "重庆模仿笔迹 重庆模仿签名 重庆模仿签字 重庆笔迹鉴定",
+      "title" : "重庆站曲面文件拍摄新增原图保存说明",
+      "url" : "city/chongqing/chongqing-original-photo-update.html"
+   },
+   {
+      "description" : "苏州站商务签字新增日期与短句分类，围绕苏州模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新服务资料。",
+      "keywords" : "苏州模仿笔迹 苏州模仿签名 苏州模仿签字 苏州笔迹鉴定",
+      "title" : "苏州站商务签字新增日期与短句分类",
+      "url" : "city/suzhou/suzhou-business-signing-update.html"
+   },
+   {
+      "description" : "天津站手写数字样本新增日期与编号清单，围绕天津模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新服务资料。",
+      "keywords" : "天津模仿笔迹 天津模仿签名 天津模仿签字 天津笔迹鉴定",
+      "title" : "天津站手写数字样本新增日期与编号清单",
+      "url" : "city/tianjin/tianjin-number-sample-update.html"
+   },
+   {
+      "description" : "西安站扫描资料新增彩色底稿保存提示，围绕西安模仿笔迹、模仿签名、模仿签字和笔迹鉴定更新服务资料。",
+      "keywords" : "西安模仿笔迹 西安模仿签名 西安模仿签字 西安笔迹鉴定",
+      "title" : "西安站扫描资料新增彩色底稿保存提示",
+      "url" : "city/xian/xian-color-scan-update.html"
+   },
+   {
+      "description" : "模仿笔迹短句与整页内容有什么区别？样本和版式准备方法，围绕模仿笔迹、模仿签名、模仿签字和笔迹鉴定说明自然样本与文件整理方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 模仿笔迹",
+      "title" : "模仿笔迹短句与整页内容有什么区别？样本和版式准备方法",
+      "url" : "article/mofang-biji/short-sentence-full-page-differences.html"
+   },
+   {
+      "description" : "模仿签名为什么需要多次重复签写？稳定特征与自然变化，围绕模仿笔迹、模仿签名、模仿签字和笔迹鉴定说明自然样本与文件整理方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 模仿签名",
+      "title" : "模仿签名为什么需要多次重复签写？稳定特征与自然变化",
+      "url" : "article/mofang-qianming/repeated-signatures-stable-features.html"
+   },
+   {
+      "description" : "笔迹鉴定图片被压缩会丢失什么？原图、截图与扫描件比较，围绕模仿笔迹、模仿签名、模仿签字和笔迹鉴定说明自然样本与文件整理方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 笔迹鉴定",
+      "title" : "笔迹鉴定图片被压缩会丢失什么？原图、截图与扫描件比较",
+      "url" : "article/biji-jianding/compressed-images-detail-loss.html"
+   },
+   {
+      "description" : "从一页手写材料的三种照片说起，说明模仿笔迹参考图为什么要保留页面边缘、原始比例和未经压缩的完整图。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 模仿笔迹参考图 手写文件拍照 完整页面 原图保存 模仿笔迹能鉴定出来吗",
+      "title" : "一页手写材料拍了三次，模仿笔迹参考图为什么仍要保留原件边缘",
+      "url" : "article/mofang-biji/full-page-photo-keep-edges.html"
+   },
+   {
+      "description" : "同一个名字连续签五遍也会有自然差别。文章从真实书写变化入手，说明模仿签名样本中稳定动作与偶然差异怎么看。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 多次签名样本 签名稳定特征 签名自然变化 模仿签名能鉴定出来吗 模仿签名技巧",
+      "title" : "同一个名字签了五遍都不完全相同：模仿签名要看的是稳定动作",
+      "url" : "article/mofang-qianming/five-signatures-stable-motion.html"
+   },
+   {
+      "description" : "合同末页签字区域变窄，签字大小、倾斜和收笔会自然调整。结合模仿签字场景说明为什么样本要保留页面位置。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 合同末页签字 签字位置 快速签字 模仿签字能鉴别出来吗 签字样本",
+      "title" : "合同末页空间变窄时，模仿签字的大小和收笔会跟着变",
+      "url" : "article/mofang-qianming/contract-last-page-signing-space.html"
+   },
+   {
+      "description" : "笔迹鉴定准确吗，不能脱离材料条件回答。原件、同期自然样本、图像质量和文件来源都会影响可比较范围。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 笔迹鉴定准确吗 笔迹鉴定流程 笔迹鉴定机构哪里有 同期样本 笔迹鉴定材料",
+      "title" : "先别急着问准不准——笔迹鉴定结果取决于这些材料条件",
+      "url" : "article/biji-jianding/accuracy-depends-on-materials.html"
+   },
+   {
+      "description" : "解读笔迹鉴定收费标准背后的实际工作量，说明文件页数、样本时期、图像质量和检材数量为何会影响费用沟通。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 笔迹鉴定收费标准 笔迹鉴定费用 笔迹鉴定一个字多少钱 笔迹鉴定机构 材料页数",
+      "title" : "笔迹鉴定收费标准背后：页数、样本时期与图像质量怎样影响工作量",
+      "url" : "article/biji-jianding/pricing-workload-factors.html"
+   },
+   {
+      "description" : "页面边缘、行距、留白和落款位置只有放回整页才能看清，局部近照更适合补充笔画细节。文章结合实际资料说明完整页面、文件版本和样本来源的整理方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 手写文件 自然样本 原图保存",
+      "title" : "完整页面比局部近照多告诉我们什么：模仿笔迹样本整理实录",
+      "url" : "article/mofang-biji/complete-page-vs-closeup.html"
+   },
+   {
+      "description" : "同一姓名在正式落款、日常签收和快速登记中会形成不同版本，比较前应按场景分开。文章结合实际资料说明完整页面、文件版本和样本来源的整理方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 手写文件 自然样本 原图保存",
+      "title" : "正式版、日常版、快速版放在一起，模仿签名的差别才看得清",
+      "url" : "article/mofang-qianming/three-signature-versions.html"
+   },
+   {
+      "description" : "原件、扫描件与聊天截图保留的信息不同，先标明来源和转发过程，后续查看才不会混淆。文章结合实际资料说明完整页面、文件版本和样本来源的整理方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 手写文件 自然样本 原图保存",
+      "title" : "原件、扫描件和聊天截图排成一列，笔迹鉴定先从图像来源说起",
+      "url" : "article/biji-jianding/original-scan-chat-image.html"
+   },
+   {
+      "description" : "会议记录常有多页和多次批注，先按会议日期、页码和形成年份建立对应关系。本文从北京实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 北京模仿笔迹 北京模仿签名 北京模仿签字 北京笔迹鉴定 手写文件",
+      "title" : "北京会议记录页数较多时，模仿笔迹资料先按会议与年份拆开",
+      "url" : "city/beijing/meeting-notes-by-year.html"
+   },
+   {
+      "description" : "一行签字栏会限制签字长度，整页图能说明栏位宽度、落款位置和周围表格。本文从北京实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 北京模仿笔迹 北京模仿签名 北京模仿签字 北京笔迹鉴定 手写文件",
+      "title" : "签字栏只有一行，北京模仿签名样本为什么还要保留整页",
+      "url" : "city/beijing/narrow-signature-line-full-page.html"
+   },
+   {
+      "description" : "跨年份材料要区分早期、同期和近期样本，避免把自然变化误当成同一阶段的差异。本文从北京实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 北京模仿笔迹 北京模仿签名 北京模仿签字 北京笔迹鉴定 手写文件",
+      "title" : "北京笔迹鉴定材料跨了几年，先做一张时间清单再比较",
+      "url" : "city/beijing/samples-across-years.html"
+   },
+   {
+      "description" : "初稿、修改稿和定稿各有书写状态，保留版本顺序更容易看出连续正文的变化。本文从上海实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 上海模仿笔迹 上海模仿签名 上海模仿签字 上海笔迹鉴定 手写文件",
+      "title" : "上海商务手写文件改了三版，模仿笔迹样本别只留最终稿",
+      "url" : "city/shanghai/business-draft-three-versions.html"
+   },
+   {
+      "description" : "正式版与简写版的长度、连接和收笔不同，混在一组会削弱样本的可读性。本文从上海实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 上海模仿笔迹 上海模仿签名 上海模仿签字 上海笔迹鉴定 手写文件",
+      "title" : "同一姓名有正式版和简写版，上海模仿签名资料这样分组更清楚",
+      "url" : "city/shanghai/formal-and-short-signatures.html"
+   },
+   {
+      "description" : "原件页码、扫描文件名和局部图片应使用同一编号，确保任何细节都能回到原始页面。本文从上海实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 上海模仿笔迹 上海模仿签名 上海模仿签字 上海笔迹鉴定 手写文件",
+      "title" : "从原件到扫描件：上海笔迹鉴定材料怎样保留对应关系",
+      "url" : "city/shanghai/original-to-scan-links.html"
+   },
+   {
+      "description" : "签收单、备注和连续正文的书写速度不同，分组后再看相同字更符合实际场景。本文从广州实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 广州模仿笔迹 广州模仿签名 广州模仿签字 广州笔迹鉴定 手写文件",
+      "title" : "广州签收单和手写备注放在一起，模仿笔迹样本应该怎样拆分",
+      "url" : "city/guangzhou/receipts-and-notes.html"
+   },
+   {
+      "description" : "粗细不同的笔尖会改变线条边缘和转折观感，纸张与工具信息应随样本一起保留。本文从广州实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 广州模仿笔迹 广州模仿签名 广州模仿签字 广州笔迹鉴定 手写文件",
+      "title" : "笔尖粗细换了以后，广州模仿签名为什么看起来会变",
+      "url" : "city/guangzhou/pen-tip-thickness.html"
+   },
+   {
+      "description" : "四个纸角能交代页面比例和拍摄方向，近照则作为补充，两种图片不能互相替代。本文从广州实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 广州模仿笔迹 广州模仿签名 广州模仿签字 广州笔迹鉴定 手写文件",
+      "title" : "手机拍广州手写文件，四个纸角留全比拍得很近更重要",
+      "url" : "city/guangzhou/phone-photo-four-corners.html"
+   },
+   {
+      "description" : "多设备传图最容易产生重复文件，先约定日期、页码和版本，归档后才能快速定位。本文从深圳实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 深圳模仿笔迹 深圳模仿签名 深圳模仿签字 深圳笔迹鉴定 手写文件",
+      "title" : "深圳手写文件进入电脑前，模仿笔迹图片命名先统一",
+      "url" : "city/shenzhen/digital-file-naming.html"
+   },
+   {
+      "description" : "手机照片、扫描件和平板预览的尺寸与颜色不同，应在文件名中直接标明获取方式。本文从深圳实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 深圳模仿笔迹 深圳模仿签名 深圳模仿签字 深圳笔迹鉴定 手写文件",
+      "title" : "手机、扫描仪与平板预览：深圳笔迹鉴定图片不要混成同一版本",
+      "url" : "city/shenzhen/phone-scanner-tablet.html"
+   },
+   {
+      "description" : "正式、日常和快速版本分别使用固定标签，既保留原文件名，也能看出使用场景。本文从深圳实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 深圳模仿笔迹 深圳模仿签名 深圳模仿签字 深圳笔迹鉴定 手写文件",
+      "title" : "深圳模仿签字材料有三个版本，颜色标签比反复改文件名更省事",
+      "url" : "city/shenzhen/three-versions-color-labels.html"
+   },
+   {
+      "description" : "长页书写到后半段容易压缩行距，先记录纸张规格和段落位置更便于还原版面。本文从杭州实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 杭州模仿笔迹 杭州模仿签名 杭州模仿签字 杭州笔迹鉴定 手写文件",
+      "title" : "行距和留白先定下来，杭州模仿笔迹长页才不会越写越挤",
+      "url" : "city/hangzhou/line-spacing-and-margins.html"
+   },
+   {
+      "description" : "光滑纸与吸墨纸会呈现不同线条，比较签名时要同时记录纸张和笔尖。本文从杭州实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 杭州模仿笔迹 杭州模仿签名 杭州模仿签字 杭州笔迹鉴定 手写文件",
+      "title" : "纸张一换，杭州模仿签名的线条粗细为什么也会跟着变",
+      "url" : "city/hangzhou/paper-and-pen-width.html"
+   },
+   {
+      "description" : "页边批注的方向和空间受页面限制，裁掉正文或纸边会失去重要的位置参照。本文从杭州实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 杭州模仿笔迹 杭州模仿签名 杭州模仿签字 杭州笔迹鉴定 手写文件",
+      "title" : "杭州手写页边批注较多，笔迹鉴定前先保留完整版面",
+      "url" : "city/hangzhou/margin-notes-full-layout.html"
+   },
+   {
+      "description" : "与待分析文件形成时间接近的自然样本，更能反映当时的书写状态和稳定习惯。本文从南京实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 南京模仿笔迹 南京模仿签名 南京模仿签字 南京笔迹鉴定 手写文件",
+      "title" : "南京笔迹鉴定为什么重视同期样本：先把时间范围缩小",
+      "url" : "city/nanjing/same-period-samples.html"
+   },
+   {
+      "description" : "三种材料的信息层级不同，目录中应先写原件，再写复制方式和对应页码。本文从南京实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 南京模仿笔迹 南京模仿签名 南京模仿签字 南京笔迹鉴定 手写文件",
+      "title" : "原件、复印件、彩色扫描件，南京笔迹鉴定材料别放错顺序",
+      "url" : "city/nanjing/original-copy-color-scan.html"
+   },
+   {
+      "description" : "合同落款、快递签收和签到表属于不同场景，应先确定常用版本，再在组内比较。本文从南京实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 南京模仿笔迹 南京模仿签名 南京模仿签字 南京笔迹鉴定 手写文件",
+      "title" : "南京模仿签名样本来自不同场景，比较前先认清签字版本",
+      "url" : "city/nanjing/signature-scenes.html"
+   },
+   {
+      "description" : "连续写到第二页后，速度、字距和段落节奏会自然变化，不能只用开头几行代表整篇。本文从成都实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 成都模仿笔迹 成都模仿签名 成都模仿签字 成都笔迹鉴定 手写文件",
+      "title" : "写到第二页后行距变松，成都模仿笔迹要看长文节奏",
+      "url" : "city/chengdu/long-text-rhythm.html"
+   },
+   {
+      "description" : "装订本和散页的支撑、边距不同，整理时应保留页面尺寸与装订位置。本文从成都实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 成都模仿笔迹 成都模仿签名 成都模仿签字 成都笔迹鉴定 手写文件",
+      "title" : "笔记本与散页尺寸不同，成都手写文件先记录页面规格",
+      "url" : "city/chengdu/notebook-and-loose-pages.html"
+   },
+   {
+      "description" : "重复转发的截图不等于新样本，来源、日期和场景明确的自然签字更便于整理。本文从成都实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 成都模仿笔迹 成都模仿签名 成都模仿签字 成都笔迹鉴定 手写文件",
+      "title" : "成都模仿签字样本不必求多，来源清楚比重复截图更重要",
+      "url" : "city/chengdu/clear-source-over-quantity.html"
+   },
+   {
+      "description" : "常用版本应结合实际文件判断，不以最工整的一张作为唯一标准。本文从武汉实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 武汉模仿笔迹 武汉模仿签名 武汉模仿签字 武汉笔迹鉴定 手写文件",
+      "title" : "武汉模仿签名遇到三个常用版本，先找使用频率最高的一组",
+      "url" : "city/wuhan/three-common-signatures.html"
+   },
+   {
+      "description" : "日期与短句能说明签字当时的书写速度和页面位置，保留完整区域更有参照。本文从武汉实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 武汉模仿笔迹 武汉模仿签名 武汉模仿签字 武汉笔迹鉴定 手写文件",
+      "title" : "日期、短句和落款连在一起，武汉模仿签字别只截姓名",
+      "url" : "city/wuhan/date-note-and-signature.html"
+   },
+   {
+      "description" : "暖色、冷色和灰度版本可能改变墨迹观感，未经调整的原图应作为独立版本保存。本文从武汉实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 武汉模仿笔迹 武汉模仿签名 武汉模仿签字 武汉笔迹鉴定 手写文件",
+      "title" : "武汉笔迹鉴定图片偏色时，彩色原图要单独保存",
+      "url" : "city/wuhan/color-cast-original-image.html"
+   },
+   {
+      "description" : "卷曲页面先轻压四角并垂直拍摄，阴影严重时补拍，但不要覆盖第一张原图。本文从重庆实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 重庆模仿笔迹 重庆模仿签名 重庆模仿签字 重庆笔迹鉴定 手写文件",
+      "title" : "纸张卷曲又有阴影，重庆模仿笔迹照片怎样保留真实比例",
+      "url" : "city/chongqing/curled-paper-proportions.html"
+   },
+   {
+      "description" : "靠近书脊时手腕活动范围变小，字形与行向可能变化，页面结构必须一并保留。本文从重庆实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 重庆模仿笔迹 重庆模仿签名 重庆模仿签字 重庆笔迹鉴定 手写文件",
+      "title" : "装订线附近的字容易变形，重庆手写文件要连同书脊一起看",
+      "url" : "city/chongqing/notebook-gutter-writing.html"
+   },
+   {
+      "description" : "转发、裁切和调色会逐步丢失细节，先找到最早文件，再记录后续版本。本文从重庆实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 重庆模仿笔迹 重庆模仿签名 重庆模仿签字 重庆笔迹鉴定 手写文件",
+      "title" : "重庆笔迹鉴定收到多次转发图片，先追溯第一份原图",
+      "url" : "city/chongqing/trace-first-original-photo.html"
+   },
+   {
+      "description" : "商务落款与日常简写用途不同，按场景分组能避免把版本差异当成随机变化。本文从苏州实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 苏州模仿笔迹 苏州模仿签名 苏州模仿签字 苏州笔迹鉴定 手写文件",
+      "title" : "苏州商务文件上的模仿签名，正式落款与日常简写分开整理",
+      "url" : "city/suzhou/business-formal-and-daily.html"
+   },
+   {
+      "description" : "至少保留完整落款区、日期和相邻短句，同时另存整页照片作为位置参照。本文从苏州实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 苏州模仿笔迹 苏州模仿签名 苏州模仿签字 苏州笔迹鉴定 手写文件",
+      "title" : "日期和短句紧挨签字，苏州模仿签字样本应保留多大范围",
+      "url" : "city/suzhou/date-note-crop-range.html"
+   },
+   {
+      "description" : "长文、便笺和正式文件分开后，行距、速度与用笔差异更容易理解。本文从苏州实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 苏州模仿笔迹 苏州模仿签名 苏州模仿签字 苏州笔迹鉴定 手写文件",
+      "title" : "苏州模仿笔迹资料分成三组后，长文与便笺不再混在一起",
+      "url" : "city/suzhou/three-sample-groups.html"
+   },
+   {
+      "description" : "数字、日期和金额写法出现频率高，可先做索引，再回到原页查看上下文。本文从天津实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 天津模仿笔迹 天津模仿签名 天津模仿签字 天津笔迹鉴定 手写文件",
+      "title" : "数字和日期反复出现，天津模仿笔迹样本可先做字符清单",
+      "url" : "city/tianjin/numbers-and-dates.html"
+   },
+   {
+      "description" : "纸张年代与书写时期应分别记录，旧样本不能与近期材料无标记地混排。本文从天津实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 天津模仿笔迹 天津模仿签名 天津模仿签字 天津笔迹鉴定 手写文件",
+      "title" : "天津笔迹鉴定遇到跨时期材料，旧样本与近期样本分别说明",
+      "url" : "city/tianjin/samples-from-different-periods.html"
+   },
+   {
+      "description" : "整页、局部和补拍照片沿用同一页码，查看局部时能立即找到对应表格。本文从天津实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 天津模仿笔迹 天津模仿签名 天津模仿签字 天津笔迹鉴定 手写文件",
+      "title" : "天津多页表格手写内容，页码与局部照片要用同一编号",
+      "url" : "city/tianjin/multipage-form-numbering.html"
+   },
+   {
+      "description" : "原件与复印件可观察的信息不同，咨询前先说明持有形式和复制次数。本文从西安实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 西安模仿笔迹 西安模仿签名 西安模仿签字 西安笔迹鉴定 手写文件",
+      "title" : "西安笔迹鉴定看原件还是复印件，先说明材料从哪里来",
+      "url" : "city/xian/original-or-photocopy.html"
+   },
+   {
+      "description" : "彩色扫描保留墨色与纸色，灰度版本便于阅读，两者应对应同一原页。本文从西安实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 西安模仿笔迹 西安模仿签名 西安模仿签字 西安笔迹鉴定 手写文件",
+      "title" : "彩色扫描与灰度扫描差别明显，西安手写文件不要只留一种",
+      "url" : "city/xian/color-vs-grayscale-scan.html"
+   },
+   {
+      "description" : "档案袋外先标明日期、场景与版本，取出后仍能知道每张签名从哪里来。本文从西安实际资料整理角度说明页面、版本与原图的保存方法。",
+      "keywords" : "模仿笔迹 模仿签名 模仿签字 笔迹鉴定 西安模仿笔迹 西安模仿签名 西安模仿签字 西安笔迹鉴定 手写文件",
+      "title" : "西安模仿签名样本装进档案袋前，日期和场景先写清楚",
+      "url" : "city/xian/archive-envelope-labels.html"
+   }
 ]
