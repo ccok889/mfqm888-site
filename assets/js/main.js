@@ -3,7 +3,7 @@ const siteRoot=currentScriptUrl?new URL('../../',currentScriptUrl):new URL('./',
 const siteUrl=path=>new URL(path,siteRoot).href;
 
 const searchIndex=[
-{"title":"模仿笔迹与模仿签名资料完成校订，旧文章保留原链接","url":"article/news/handwriting-signature-editorial-update-20261013.html","category":"服务动态","date":"2026-10-13","keywords":"模仿笔迹 模仿签名 模仿签字 笔迹鉴定 模仿笔迹样本 模仿签名资料 签字版本 笔迹鉴定原件","description":"模仿笔迹网完成一轮内容校订，补充模仿签名、模仿签字的场景差异及笔迹鉴定资料说明，原有文章链接继续保留，首页与资讯中心同步更新阅读入口。","image":"assets/images/news-editorial-review-20261013.jpg"},
+{"title":"模仿笔迹看着像，为什么读起来仍有差别？","url":"article/news/handwriting-signature-editorial-update-20261013.html","category":"专题内容","date":"2026-10-13","keywords":"模仿笔迹 模仿签名 模仿签字 笔迹鉴定 模仿笔迹样本 模仿签名资料 签字版本 笔迹鉴定原件","description":"模仿笔迹的相似感不只来自单字外形，字距、行距和连续书写也会影响整体观感。结合模仿签名、模仿签字的场景差异，讨论笔迹鉴定中自然变化与稳定特征的关系。","image":"assets/images/handwriting-rhythm-comparison-20261013.jpg"},
   {title:'模仿笔迹服务与案例',url:'category/mofang-biji.html',keywords:'模仿笔迹 手写笔迹 成人笔迹 学生笔迹 老人笔迹',description:'模仿笔迹服务分类、案例、费用和相关知识。',category:'模仿笔迹',date:'2026-08-05',image:'assets/images/handwriting-detail.jpg'},
   {title:'模仿签名服务与案例',url:'category/mofang-qianming.html',keywords:'模仿签名 签名模仿 模仿签字 商务签字',description:'模仿签名、签字样本、笔迹特征和费用说明。',category:'模仿签名',date:'2026-08-05',image:'assets/images/signature-design.jpg'},
   {title:'笔迹鉴定方法与案例',url:'category/biji-jianding.html',keywords:'笔迹鉴定 真假分析 鉴定方法 形成规律 费用',description:'笔迹真假分析、常见鉴定方法和样本要求。',category:'笔迹鉴定',date:'2026-08-05',image:'assets/images/handwritten-documents.jpg'},
