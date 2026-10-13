@@ -26,7 +26,10 @@ for(const p of pairs){
  if(!search.some(x=>x.url===rel))errors.push(`${rel}: 未进入search.json`);
  if(!sitemap.includes(`https://www.mfqm888.com/${rel}`))errors.push(`${rel}: 未进入sitemap.xml`);
  const index=fs.readFileSync(path.join(root,'city',p.slug,'index.html'),'utf8');
- if(!index.includes(p.file)||!index.includes('5 篇'))errors.push(`${rel}: 分站首页入口缺失`);
+ if(!index.includes(p.file))errors.push(`${rel}: 分站首页入口缺失`);
+ const displayedCount=Number((index.match(/<small>SERVICE GUIDES<\/small>[\s\S]*?<span class="more">(\d+) 篇/)||[])[1]);
+ const actualCount=[...index.matchAll(/<article class="article-row"/g)].length;
+ if(displayedCount!==actualCount)errors.push(`${rel}: 分站文章计数不一致 ${displayedCount}/${actualCount}`);
  for(const block of html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)){try{JSON.parse(block[1])}catch{errors.push(`${rel}: JSON-LD格式错误`)}}
 }
 if(errors.length){console.error(errors.join('\n'));process.exit(1)}

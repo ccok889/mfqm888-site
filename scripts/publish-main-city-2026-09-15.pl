@@ -9,6 +9,7 @@ use File::Spec;
 
 my $root = File::Spec->rel2abs(File::Spec->curdir);
 my $date = '2026-09-15';
+die "本次发布已完成；重复执行会覆盖已校订文章。新增内容请使用新批次脚本。\n" if -e File::Spec->catfile($root,'scripts','published-main-city-2026-09-15.json');
 my @core = qw(模仿笔迹 模仿签名 模仿签字 笔迹鉴定);
 
 my @main = (
