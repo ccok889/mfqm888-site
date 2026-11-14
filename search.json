@@ -1,5 +1,96 @@
 [
   {
+    "title": "西安旧笔记只有铅笔浅字，转发前先保留相机原文件",
+    "url": "city/xian/xian-handwriting-note-20261114.html",
+    "keywords": "西安 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "浅色铅笔字在手机上看着还能读，经过聊天压缩后却可能断断续续。第一次拍到的文件，往往比多次转发的预览更值得保留。",
+    "image": "assets/images/news-xian-20261114.webp"
+  },
+  {
+    "title": "武汉笔迹鉴定材料有重影，先检查是不是拍摄晃动",
+    "url": "city/wuhan/wuhan-handwriting-note-20261114.html",
+    "keywords": "武汉 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "线条旁边出现一条淡淡的边，不一定是写了两次。手持拍摄晃动、扫描处理或压缩，也可能改变边缘外观。",
+    "image": "assets/images/news-wuhan-20261114.webp"
+  },
+  {
+    "title": "天津模仿签字参考中的空白栏，不要为了整洁裁掉",
+    "url": "city/tianjin/tianjin-handwriting-note-20261114.html",
+    "keywords": "天津 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "姓名旁边没写字的地方也有作用。空白栏能显示落款原来的位置，裁去之后，有些空间关系就无法判断了。",
+    "image": "assets/images/news-tianjin-20261114.webp"
+  },
+  {
+    "title": "苏州模仿笔迹参考遇到信封地址，和书信正文能混着看吗",
+    "url": "city/suzhou/suzhou-handwriting-note-20261114.html",
+    "keywords": "苏州 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "信封需要把地址写进有限区域，正文则可以自由换行。两者都属于手写材料，但版面约束并不相同。",
+    "image": "assets/images/news-suzhou-20261114.webp"
+  },
+  {
+    "title": "深圳线上提交手写材料，长截图为什么不适合代替逐页原图",
+    "url": "city/shenzhen/shenzhen-handwriting-note-20261114.html",
+    "keywords": "深圳 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "把几页图片连成长截图便于手机翻看，却可能再次压缩、裁切或改变比例。浏览方便，不代表适合保留细节。",
+    "image": "assets/images/news-shenzhen-20261114.webp"
+  },
+  {
+    "title": "上海书信的抬头和正文写法不同，模仿笔迹参考要分开读",
+    "url": "city/shanghai/shanghai-handwriting-note-20261114.html",
+    "keywords": "上海 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "同一封信里，称呼可能写得较大，正文却紧凑许多。不同位置承担不同用途，不能只截一处就概括整页。",
+    "image": "assets/images/news-shanghai-20261114.webp"
+  },
+  {
+    "title": "南京笔迹鉴定资料颜色发黄，转成黑白会更好吗",
+    "url": "city/nanjing/nanjing-handwriting-note-20261114.html",
+    "keywords": "南京 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "旧纸张的底色会影响视觉对比，但转成黑白也可能损失浅色线条。纸面看起来更白，不代表细节变得更多。",
+    "image": "assets/images/news-nanjing-20261114.webp"
+  },
+  {
+    "title": "杭州手写稿中的英文缩写，为什么不能只按汉字字距排",
+    "url": "city/hangzhou/hangzhou-handwriting-note-20261114.html",
+    "keywords": "杭州 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "汉字、数字和英文字母放在同一行，宽度关系并不一致。只把每个字符塞进相同方格，整段读起来可能缺少自然节奏。",
+    "image": "assets/images/news-hangzhou-20261114.webp"
+  },
+  {
+    "title": "广州模仿签名样本里的尾笔伸出纸边，还能看完整吗",
+    "url": "city/guangzhou/guangzhou-handwriting-note-20261114.html",
+    "keywords": "广州 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "图片裁得过紧，姓名末笔可能已经超出画面。看似短促的收尾，有时只是截图没有保留全部内容。",
+    "image": "assets/images/news-guangzhou-20261114.webp"
+  },
+  {
+    "title": "重庆手写照片一边清楚一边模糊，问题可能不在分辨率",
+    "url": "city/chongqing/chongqing-handwriting-note-20261114.html",
+    "keywords": "重庆 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "文件像素很高，页面边缘仍可能失焦。纸张弯曲、镜头倾斜和拍摄距离，都会影响不同区域的清晰程度。",
+    "image": "assets/images/news-chongqing-20261114.webp"
+  },
+  {
+    "title": "成都模仿笔迹参考中的速记符号，要和汉字分开整理吗",
+    "url": "city/chengdu/chengdu-handwriting-note-20261114.html",
+    "keywords": "成都 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "箭头、圈号和短横常出现在日常笔记里。它们能帮助理解记录方式，但不应被随意释读成完整文字。",
+    "image": "assets/images/news-chengdu-20261114.webp"
+  },
+  {
+    "title": "北京多页手写记录少了中间一页，编号还能重新排吗",
+    "url": "city/beijing/beijing-handwriting-note-20261114.html",
+    "keywords": "北京 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "一份材料缺页后，重新编号看起来更整齐，却会掩盖原来的文件关系。目录连续和原页完整，是两件不同的事。",
+    "image": "assets/images/news-beijing-20261114.webp"
+  },
+  {
+    "title": "同一个字出现两次却不一样，模仿笔迹参考该保留哪一个",
+    "url": "article/news/handwriting-rhythm-20261114.html",
+    "keywords": " 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "整理手写材料时，重复字最容易被挑出来比较。一次舒展、一次紧凑并不罕见，真正需要保留的是它们各自所在的语句。",
+    "image": "assets/images/news-handwriting-comparison-20261114.webp"
+  },
+  {
     "title": "西安旧手稿折叠处的断线，别急着算成停笔",
     "url": "city/xian/xian-handwriting-note-20261112.html",
     "keywords": "西安 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
