@@ -1,0 +1,32 @@
+# 2026-11-16 全站定时发文
+
+计划主站及12城市分站各一篇，共13篇；稿件与图片提示词见news-20261116.json。开始时工作区干净，远程main为2b2b3dff1a7bf6de1d6bede9c00a21e0254f0a47，与本地一致。
+
+沿用本地第三方接口和已授权gpt-image-2.6；密钥不输出、不提交。独立主图生成后优化为WebP，网站引用压缩版；原PNG移至工作区旁news-originals-20261116保存。主站首页6条，分站首页5条，资讯分页不丢失旧文章。
+
+已受理图片任务，失败先查询结果，不重复创建：
+- task_YIXYwKUSVDfMqs3SAZFC7f0m2dku7Aww
+- task_gJfDqwzndHPlHZW0DIvdXvRSMJli9O7b
+- task_h13Y4QmCAUaLV6CTFAnNWJDAvCaAXX00
+- task_y8MhSY70c2SVm0CTIqaBDQZ6vKmfyCc8
+- task_Of2mhit0OOMsHhrWVsnNEcqBRBFtsOJG
+- task_YaT64dH7iOE58A7Ef2i5mfOxfZlCFigq
+- task_FcNRVFnelCCYqEAvIM3kdDc9MLDh0ooA
+- task_iaY8K4Iiw37jOJRTbaHg75yUO0BOqCwS
+- task_HRNeDKxrp7nGUOVv9iVcKIfxfri1q7pP
+- task_MPtd9EY672TvBr25nJPcmbb8JDc2sFwm
+- task_zKyVOaDWsNjeC3qX1ezKvVXqBC3SloT0
+
+批处理因深圳任务明确failed中断（错误：没有按照预期生成图片，请重新调整提示词后重试）。查询确认天津任务completed，直接恢复下载，未重新生成。深圳修改为简单扫描仪纸面场景后重试；武汉西安尚无已受理任务。剩余任务改为顺序执行并持久保存日志image-tasks-20261116.log，避免丢失任务ID。
+
+正文第一轮检查通过：13个不同标题，四核心关键词自然保留，每篇正文达到本批基本篇幅要求；历史索引所指文章中没有复用本批完整段落。
+
+已完成12站的第二、三轮检查：12张配图经联系表目视确认与各自主题相符，压缩WebP与站内历史文件哈希无重复；原PNG亦与上一批归档原稿核对无重复。全站329页、313条搜索索引、28篇主站资讯分页及首页条数限制检查通过。武汉未进入索引、首页和站点地图，不宣称已发布。
+
+深圳修改场景后任务task_FzHlDrNI8zF1FZEU60dLSp9ezIQGzjK8成功保存。武汉任务task_oQyOQlnANo8LsoqAJoZ46cQSPjgdq7RK明确failed，服务提示调整提示词后重试；将场景简化为蓝黑两支笔与普通笔记本（提示词保存在resume脚本）。失败任务没有输出图片，重新提交使用不同提示词；西安尚未创建任务。
+
+当前尚未发布，完成检查后记录提交和逐站生产验证。
+
+恢复结论：武汉第三次任务task_47dm0TbL42IrfeM3lJhq9cuz3SUVsOvu仍明确failed，停止继续消耗图片请求。西安任务task_Lt3y5zQcSlsTqpcHcwjEz0xeoQwLPmON已成功。实际先发布主站及其余11分站共12篇；武汉完整稿件保留于news-20261116.json，但不发布缺少主图的文章、不复用旧图。下次任务应优先恢复武汉此稿，不能重复发布已完成12篇。发布脚本和专项审计明确只处理本批已完成的12站，避免错误宣称13站全部完成。
+
+武汉简化提示词任务task_Y0m4VSQFjh7zsMLb4t2Zi6mfch2cZs4x也明确failed，仍为服务端未生成图片。第三次改为纯文具静物摄影提示词，只要求蓝黑笔与笔记本；先完成西安，避免某一站失败阻止剩余站点主图生成。各次任务ID均保留在日志，未将pending任务重提。
