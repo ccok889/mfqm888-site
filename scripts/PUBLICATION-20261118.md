@@ -1,0 +1,26 @@
+# 2026-11-18 全站自动发文
+
+开始工作区干净，远程main为34ff4210501061eee5c12841a63bbc4435191cdb，与本地一致。本批计划13篇，稿件及提示词见news-20261118.json，尚未发布。
+
+武汉11月16日欠稿仍未发布，保留原记录，不把本批新文冒充补齐欠稿；本批武汉先使用更简单纯文具主图提示词测试接口。不得重复其他已发布文章。
+
+图片使用既有本地gpt-image-2.6第三方接口。独立原稿转WebP上线，密钥不记录。任务失败须先查询，不重提未完成任务。
+
+已受理任务：
+- task_WEjRnLvPZ1rJihGBPHrMD9IfSZJuOzoB
+- task_7vVSo5Fw2JDNXvqpAdUCSbjYzUBYmVJb
+- task_v9VjY4w2TL3XnjZmPaxC106H7dQoyVot
+- task_VMIDTqEi5YDvOirQbt6QYvVmja1toR7B
+- task_ltrmNlQExcp6HZQytNW7bxpHNvoQBvOh
+- task_cJTCSdaYMAIqSVZdg6DMgDU9fCZqqoGD
+- task_tvuq74wdPYO3ev9246BnyCAUXFvVMRSE
+- task_c37B0G6ywqBlsBlINs7FpGagk6rxsh8i
+- task_WkJ9jUz8DVyBWZvInYpSbNCUl75iReAc
+- task_UGPgxfz0YeYfajNDS0pMG70TW9rEoY81
+- task_1CpW2EMHb4QeN6QJCPy5HCojGJVKVKQF
+- task_eX6ktaQGRtcabMdNgR98gyjzyY6dqvma
+- task_zdSTTO89byMgmq6JvmbzjNmHtA2EvANb
+
+本期13张图片全部成功。额外恢复11月16日武汉欠稿，独立主图任务task_Y3pijPmxUlzZbgQxZXI0nqp1gaYEmi11成功；使用蓝黑笔与双本笔记本新构图，没有复用本轮图。recover-wuhan-20261116.mjs只补武汉旧稿，不重复其他12站；旧稿文件名保留以便追溯，实际发布日期为2026-11-18，首页本期新文仍排第一。
+
+三轮检查通过：13篇新稿及1篇欠稿内容与关键词检查；14张新图片目视检查与历史哈希检查；全站343页、327条索引、29篇主站资讯分页、各站首页数量及结构链接检查。实际待发布总量14篇（主站1、其余11城市各1、武汉2）。

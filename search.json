@@ -1,5 +1,103 @@
 [
   {
+    "title": "武汉手写记录前半页用蓝笔、后半页用黑笔，先别急着分成两份",
+    "url": "city/wuhan/wuhan-handwriting-note-20261116.html",
+    "keywords": "武汉 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "一页笔记换了笔色，可能是换笔，也可能来自不同时间的补记。颜色变化值得记录，但不能单独决定材料身份。",
+    "image": "assets/images/news-wuhan-20261116.webp"
+  },
+  {
+    "title": "西安旧笔记扫描出现背面透字，正文与干扰怎样区分记录",
+    "url": "city/xian/xian-handwriting-note-20261118.html",
+    "keywords": "西安 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "纸张较薄时，背面的文字可能透到正面。增加对比度未必让正文更好读，反而可能把背景干扰一起加深。",
+    "image": "assets/images/news-xian-20261118.webp"
+  },
+  {
+    "title": "武汉手写记录中的蓝黑笔迹，先保留整页再分区域观察",
+    "url": "city/wuhan/wuhan-handwriting-note-20261118.html",
+    "keywords": "武汉 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "同一页出现两种笔色，可以先记录分布，再核实形成背景。颜色不同不自动说明作者不同，文字连续也不证明一次写完。",
+    "image": "assets/images/news-wuhan-20261118.webp"
+  },
+  {
+    "title": "天津模仿签字参考里有两次落款，能只选最清楚的一次吗",
+    "url": "city/tianjin/tianjin-handwriting-note-20261118.html",
+    "keywords": "天津 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "清楚的一次便于阅读，另一次却可能显示不同空间条件。整理材料时，挑选展示图与保存完整来源不应混为一件事。",
+    "image": "assets/images/news-tianjin-20261118.webp"
+  },
+  {
+    "title": "苏州旧书信的信纸横线，会影响模仿笔迹中的行距判断吗",
+    "url": "city/suzhou/suzhou-handwriting-note-20261118.html",
+    "keywords": "苏州 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "横线提供了排布参照，也限制了文字空间。看见行距一致时，先确认它是否恰好沿着纸上的格线形成。",
+    "image": "assets/images/news-suzhou-20261118.webp"
+  },
+  {
+    "title": "深圳手机拍手写资料开了人像模式，虚化边缘要重新检查",
+    "url": "city/shenzhen/shenzhen-handwriting-note-20261118.html",
+    "keywords": "深圳 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "相机把纸面当成主体时，仍可能让部分区域虚化。照片背景好看，不代表整张纸的文字都能读清。",
+    "image": "assets/images/news-shenzhen-20261118.webp"
+  },
+  {
+    "title": "上海模仿笔迹长文参考只有半页，哪些信息仍然不能确定",
+    "url": "city/shanghai/shanghai-handwriting-note-20261118.html",
+    "keywords": "上海 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "半页文字可以阅读局部结构，却未必交代页首、页尾与左右留白。内容清楚和页面完整，是不同的材料条件。",
+    "image": "assets/images/news-shanghai-20261118.webp"
+  },
+  {
+    "title": "南京笔迹鉴定材料扫描后被自动锐化，细节更清楚了吗",
+    "url": "city/nanjing/nanjing-handwriting-note-20261118.html",
+    "keywords": "南京 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "锐化让边缘看起来更硬，阅读感受可能改善，但这不等于增加了原稿信息。处理方式需要与图像来源一起说明。",
+    "image": "assets/images/news-nanjing-20261118.webp"
+  },
+  {
+    "title": "杭州手写稿里的括号批注，别在转录时并进正文",
+    "url": "city/hangzhou/hangzhou-handwriting-note-20261118.html",
+    "keywords": "杭州 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "括号里的文字可能是补充说明，也可能是单独批注。直接并成一段，容易改变原来文字的空间与阅读关系。",
+    "image": "assets/images/news-hangzhou-20261118.webp"
+  },
+  {
+    "title": "广州模仿签名参考中的小票纸，为什么不宜和A4截图直接比大小",
+    "url": "city/guangzhou/guangzhou-handwriting-note-20261118.html",
+    "keywords": "广州 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "小票、卡片和文件页尺寸不同，在聊天窗口里却可能显示得一样宽。屏幕尺寸一致，不代表实际字大小一致。",
+    "image": "assets/images/news-guangzhou-20261118.webp"
+  },
+  {
+    "title": "重庆模仿签字参考靠近装订孔，拍摄时怎样保留完整栏位",
+    "url": "city/chongqing/chongqing-handwriting-note-20261118.html",
+    "keywords": "重庆 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "文件夹、订书钉和打孔边有时遮住纸面。拍摄重点不仅是姓名能不能读清，还包括它原来处在什么位置。",
+    "image": "assets/images/news-chongqing-20261118.webp"
+  },
+  {
+    "title": "成都手写日程里的空行，是习惯还是为后来补记留的位置",
+    "url": "city/chengdu/chengdu-handwriting-note-20261118.html",
+    "keywords": "成都 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "日程本中间留着几行空白，后来可能又补上内容。仅看最终页面，很难直接还原每一段文字的形成经过。",
+    "image": "assets/images/news-chengdu-20261118.webp"
+  },
+  {
+    "title": "北京笔迹鉴定资料按文件编号，为什么还要保留原文件名",
+    "url": "city/beijing/beijing-handwriting-note-20261118.html",
+    "keywords": "北京 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "新编号方便整理，原文件名却可能关联提供者手里的旧目录。两者同时保留，交接时更容易找到对应材料。",
+    "image": "assets/images/news-beijing-20261118.webp"
+  },
+  {
+    "title": "先读内容还是先看字形？模仿笔迹参考的两种阅读距离",
+    "url": "article/news/handwriting-rhythm-20261118.html",
+    "keywords": " 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
+    "description": "把页面缩小，能看到整页布局；把文字放大，才能看清局部。两种阅读距离提供的信息不同，观察时不必一直停在最大倍率。",
+    "image": "assets/images/news-handwriting-comparison-20261118.webp"
+  },
+  {
     "title": "西安旧手稿的页边批注，与正文一起扫描时容易漏掉什么",
     "url": "city/xian/xian-handwriting-note-20261116.html",
     "keywords": "西安 模仿笔迹 模仿签名 模仿签字 笔迹鉴定",
